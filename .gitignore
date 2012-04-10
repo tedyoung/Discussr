@@ -1,0 +1,8 @@
+atlassian-ide-plugin.xml
+MostRecentSavedStatusId.txt
+jitterted-tweets*.txt
+tweets*.txt
+
+target/
+war/
+data/
