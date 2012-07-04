@@ -2,8 +2,11 @@ package com.tedmyoung.discussr;
 
 import org.apache.commons.io.FileUtils;
 import twitter4j.Paging;
+import twitter4j.Query;
+import twitter4j.QueryResult;
 import twitter4j.ResponseList;
 import twitter4j.Status;
+import twitter4j.Tweet;
 import twitter4j.Twitter;
 import twitter4j.TwitterException;
 import twitter4j.TwitterFactory;
@@ -22,6 +25,7 @@ import java.net.SocketTimeoutException;
 import java.net.URL;
 import java.util.Calendar;
 import java.util.Date;
+import java.util.List;
 import java.util.concurrent.Executors;
 import java.util.concurrent.ScheduledExecutorService;
 import java.util.concurrent.ScheduledFuture;
@@ -38,6 +42,8 @@ public class TwitterSampleRetrieval {
 
   private final ScheduledExecutorService _scheduler = Executors.newScheduledThreadPool(1);
   private static final boolean SHOULD_EXCLUDE_RETWEETS = false;
+  private Configuration _configuration;
+  private int _cumulativeSavedTweetCount = 0;
 
   public static void main(String[] args) throws IOException, TwitterException {
 
@@ -46,6 +52,8 @@ public class TwitterSampleRetrieval {
     final TwitterSampleRetrieval retriever = new TwitterSampleRetrieval();
 
     retriever.start();
+//    retriever.saveTwitterSearch();
+
   }
 
   private void start() {
@@ -53,7 +61,10 @@ public class TwitterSampleRetrieval {
       public void run() {
         try {
           saveNewTweets();
+//          saveTwitterSearch("agileroots");
+//          saveTwitterSearch("zomblatt");
         } catch (IOException e) {
+          System.err.println("\nTweet Saver Task threw an exception:" + e.getMessage());
           e.printStackTrace();
         }
       }
@@ -74,26 +85,54 @@ public class TwitterSampleRetrieval {
 //    }, 90, MINUTES);
   }
 
+  private void saveTwitterSearch(String queryString) {
+    Twitter twitter = new TwitterFactory(getConfiguration()).getInstance();
+    User user = getUser(twitter);
+    if (user == null) {
+      return;
+    }
+
+    System.out.println("Showing Search");
+    Query searchQuery = new Query();
+    searchQuery.setQuery(queryString);
+//    searchQuery.setSinceId(211126682231386112L);
+    searchQuery.setRpp(100);
+
+    for (int i = 1; i <= 15; i++) {
+      searchQuery.setPage(i);
+      try {
+        QueryResult queryResult = twitter.search(searchQuery);
+        List<Tweet> foundTweets = queryResult.getTweets();
+        if (foundTweets.isEmpty()) {
+          break;
+        }
+        System.out.println("---- PAGE " + i );
+        dumpTweets(foundTweets);
+      } catch (TwitterException e) {
+        e.printStackTrace();
+      }
+    }
+
+  }
+
+  private void dumpTweets(List<Tweet> tweets) {
+    for (Tweet tweet: tweets) {
+      String statusText = tweet.getText();
+      System.out.println("[" + tweet.getId() + "] " + authoringScreenNameFor(tweet) + " (" + tweet.getCreatedAt().toString() + ")" + ": " + statusText);
+    }
+  }
+
+  private String authoringScreenNameFor(Tweet tweet) {
+    return "@" + tweet.getFromUser();
+  }
+
   public void saveNewTweets() throws IOException {
 
-    ConfigurationBuilder cb = new ConfigurationBuilder();
-    cb.setDebugEnabled(true)
-        .setIncludeEntitiesEnabled(true)
-        .setIncludeRTsEnabled(true)
-        .setOAuthConsumerKey("Pckb0LT45Hyd1hIDmv2tew")
-        .setOAuthConsumerSecret("fS1F31kQMJrT2R5ao7XSP0TurHIocthdFXD9NnMqVOg")
-        .setOAuthAccessToken("16459579-Pjr6GOlyckrUwPFWQmeEdaKoGrTEpkxjopNNanNr5")
-        .setOAuthAccessTokenSecret("Aqr13EzxHWX8vHrJqcjcCHMYhaltcol6h5LUpLcqEE");
-    Configuration configuration = cb.build();
-
     // gets Twitter instance with default credentials
-    Twitter twitter = new TwitterFactory(configuration).getInstance();
-    User user;
-    try {
-      user = twitter.verifyCredentials();
-    } catch (TwitterException e) {
-      e.printStackTrace();
-      System.out.println("Error during verify credentials call. Exception message = '" + e.getErrorMessage() + "'" + ", Status Code = " + e.getStatusCode());
+    Twitter twitter = new TwitterFactory(getConfiguration()).getInstance();
+    User user = getUser(twitter);
+    if (user == null) {
+      System.err.println("Failed to obtain user (see stack trace for more info)");
       return;
     }
 
@@ -151,8 +190,36 @@ public class TwitterSampleRetrieval {
     }
     _writer.close();
     FileUtils.writeStringToFile(new File(MOST_RECENT_SAVED_STATUS_ID_FILENAME), String.valueOf(mostRecentSavedStatusId));
-    System.out.println("On " + new Date() + ", saved " + tweetCount + " tweets, with most recent saved Status ID: " + mostRecentSavedStatusId);
+    _cumulativeSavedTweetCount += tweetCount;
+    System.out.println("On " + new Date() + ", saved " + tweetCount + " tweets (" + _cumulativeSavedTweetCount + " overall), with most recent saved Status ID: " + mostRecentSavedStatusId);
     System.out.flush();
+    System.err.flush();
+  }
+
+  private User getUser(Twitter twitter) {
+    User user = null;
+    try {
+      user = twitter.verifyCredentials();
+    } catch (TwitterException e) {
+      e.printStackTrace();
+      System.out.println("Error during verify credentials call. Exception message = '" + e.getErrorMessage() + "'" + ", Status Code = " + e.getStatusCode());
+    }
+    return user;
+  }
+
+  private Configuration getConfiguration() {
+    if (_configuration == null) {
+      ConfigurationBuilder cb = new ConfigurationBuilder();
+      cb.setDebugEnabled(true)
+          .setIncludeEntitiesEnabled(true)
+          .setIncludeRTsEnabled(true)
+          .setOAuthConsumerKey("Pckb0LT45Hyd1hIDmv2tew")
+          .setOAuthConsumerSecret("fS1F31kQMJrT2R5ao7XSP0TurHIocthdFXD9NnMqVOg")
+          .setOAuthAccessToken("16459579-Pjr6GOlyckrUwPFWQmeEdaKoGrTEpkxjopNNanNr5")
+          .setOAuthAccessTokenSecret("Aqr13EzxHWX8vHrJqcjcCHMYhaltcol6h5LUpLcqEE");
+      _configuration = cb.build();
+    }
+    return _configuration;
   }
 
   private PageInfo dumpPage(Twitter twitter, Paging paging) throws TwitterException {
@@ -161,6 +228,7 @@ public class TwitterSampleRetrieval {
     try {
       statuses = twitter.getHomeTimeline(paging);
     } catch (TwitterException e) {
+      System.err.println("Twitter Exception: " + e.getMessage());
       return null; // indicate that we should abandon trying to get info
     }
 //    ResponseList<Status> statuses = twitter.getUserTimeline(paging);
@@ -168,6 +236,16 @@ public class TwitterSampleRetrieval {
     if (statuses.size() == 0) {
       return new PageInfo(0, 0);
     }
+    dumpStatuses(twitter, statuses);
+    System.out.println();
+    System.out.flush();
+
+//    long oldestIdFromThisPage = Iterables.getLast(statuses).getId();
+//    paging.setMaxId(oldestIdFromThisPage);
+    return new PageInfo(statuses.size(), statuses.get(0).getId());
+  }
+
+  private void dumpStatuses(Twitter twitter, Iterable<Status> statuses) throws TwitterException {
     for (Status status : statuses) {
       String statusText = status.getText();
 //      System.out.print(".");
@@ -189,21 +267,18 @@ public class TwitterSampleRetrieval {
         }
       }
     }
-    System.out.println();
-
-//    long oldestIdFromThisPage = Iterables.getLast(statuses).getId();
-//    paging.setMaxId(oldestIdFromThisPage);
-    return new PageInfo(statuses.size(), statuses.get(0).getId());
   }
 
   private void println(String string) {
     _writer.println(string);
     System.out.println(string);
+    System.out.flush();
   }
 
   private void print(String string) {
     _writer.print(string);
     System.out.print(string);
+    System.out.flush();
   }
 
   private static String timeOf(Status status) {
@@ -236,8 +311,13 @@ public class TwitterSampleRetrieval {
     try {
       connection = createHttpUrlConnectionFor(url.toString());
       while (connection.getResponseCode() == 301) {
+        String previousLocation = newLocation;
         newLocation = connection.getHeaderField("location");
         print(" --> " + newLocation);
+        if (previousLocation != null && previousLocation.equals(newLocation)) {
+          System.err.println("\n\n!! Exiting due to redirect to same location."); System.err.flush();
+          break;
+        }
         connection = createHttpUrlConnectionFor(newLocation);
       }
     } catch (SocketTimeoutException ste) {

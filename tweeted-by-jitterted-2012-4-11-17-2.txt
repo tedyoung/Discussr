@@ -1,0 +1,1014 @@
+[190199639369203712] @jitterted (Wed Apr 11 15:08:22 PDT 2012): @bendre That's cuz he never filled out the pbworks wiki page. :-)
+--> Is in reply to: @Bendre, replying to status: 190199192726147072 - Missed @DerekWWade on list.. Organizing a conference takes a lot of work.  Thanks to http://t.co/x7ESHyy7 & @jitterted #SFAgile2012
+[190187401249951745] @jitterted (Wed Apr 11 14:19:44 PDT 2012): See http://t.co/dEMOHE5g RT @sfagile2012: Dear 4th wave submitters, we need more details...
+  http://t.co/dEMOHE5g --> http://ow.ly/adJrk --> http://sfagilecon.org/walkthrough
+[190187042037174272] @jitterted (Wed Apr 11 14:18:18 PDT 2012): 4 more days to submit to the final wave of proposals for #SFAgile2012 This is your last chance so don't miss it! :-) http://t.co/gkC2nzj2
+  http://t.co/gkC2nzj2 --> http://ow.ly/adJnb --> http://sfagilecon2012.ideascale.com/
+[190184171040288768] @jitterted (Wed Apr 11 14:06:54 PDT 2012): @agilecoach Yah, I mean what's it gonna do, replace my profile with that? Append to it? Parse it? bleh. Shouldn't even be a permission.
+--> Is in reply to: @agilecoach, replying to status: 190183068584255488 - @jitterted gads! I suppose if you wanted it to auto-update with "total miles run"? I'd want to give it a formatting string. ;-)
+[190182930939772928] @jitterted (Wed Apr 11 14:01:58 PDT 2012): MapMyFitness provides yet another example for providing a "this page is broken" button on every page in your web site.
+[190182309452972032] @jitterted (Wed Apr 11 13:59:30 PDT 2012): @agilecoach MapMyFitness uses Twitter OAuth and one of the permissions is "make changes to your profile".
+--> Is in reply to: @agilecoach, replying to status: 190181674200465409 - @jitterted really? What apps? Scary. =:-O
+[190180140750356480] @jitterted (Wed Apr 11 13:50:53 PDT 2012): Why does Twitter allow third-party apps to update my profile? When would I _ever_ want that to happen?
+[190175241497083906] @jitterted (Wed Apr 11 13:31:25 PDT 2012): @ashfurrow Telling me to stop being prescriptive, is prescriptive. ;-)
+--> Is in reply to: @ashfurrow, replying to status: 190174584610357250 - In my opinion. Everyone is different, so stop be prescriptive.
+[190164111613632514] @jitterted (Wed Apr 11 12:47:11 PDT 2012): @garybernhardt Do you see those two events as being related?
+--> Is in reply to: @garybernhardt, replying to status: 190163676626550784 - Ha... it sure didn't take long for Pivotal Tracker to go from acquisition to supporting "epics". I'm glad that I dropped it a year ago.
+[190153753574391808] @jitterted (Wed Apr 11 12:06:02 PDT 2012): @flowchainsensei Darn. Because Demons I know how to handle.
+--> Is in reply to: @flowchainsensei, replying to status: 190152597934583811 - Eureka! I have it! The problem with analytic organisations is... They're possessed by Demons! #notreally
+[190153498493583360] @jitterted (Wed Apr 11 12:05:01 PDT 2012): @jbrains @angelaharms It's a problem because the term "Agile" has been watered-down and rendered less meaningful. What to do?
+--> Is in reply to: @jbrains, replying to status: 190152190399217664 - @angelaharms From what I've seen, the things that people identify as "post-agile" are just agile.
+[190153084511600640] @jitterted (Wed Apr 11 12:03:22 PDT 2012): @debasishg Thanks for the slides. Any chance a recording is available?
+--> Is in reply to: @debasishg, replying to status: 190151827457703936 - Really enjoyed all discussions in my #PhillyETE presentation .. Thanks a lot to all who attended my talk
+[190151793139912704] @jitterted (Wed Apr 11 11:58:14 PDT 2012): WOO!!!! RT @jammit_app: WE HAVE BOSTON! As of TODAY, you can d'ld GTR/BASS/KEYS/DRUMS & of course Brad's VOX!!!  http://t.co/8XQzfVha
+[190145590078881792] @jitterted (Wed Apr 11 11:33:36 PDT 2012): @dneighbors @tobiasmayer Votes don't matter nearly as much as comments. It's not solely a popularity contest; engagement is important.
+--> Is in reply to: @dneighbors, replying to status: 190137450444763136 - @tobiasmayer i didn't get much love either.. seems new hotness is "lean startup" so there will be 50 sessions on it #sfagile2012
+[190144007190478848] @jitterted (Wed Apr 11 11:27:18 PDT 2012): @tobiasmayer Your proposal didn't have a lot of information, so perhaps you can expand on it? See http://t.co/BiiFYEXG for info.
+--> Is in reply to: @tobiasmayer, replying to status: 190134816174387201 - My #SFAgile2012 submission. 0 votes, but the ranking of 113 made me smile.... http://t.co/JZQns0s6  / @113crickets
+  http://t.co/BiiFYEXG --> http://sfagilcon.org/walkthrough
+[190143010418343936] @jitterted (Wed Apr 11 11:23:21 PDT 2012): RT @zanytomato: *Gasp* Our Kickstarter is officially live! If you like it, please consider a donation or a retweet :) http://t.co/yrj4A5Qt
+  http://t.co/yrj4A5Qt --> http://ow.ly/adsgN --> http://www.kickstarter.com/projects/hungryfins/hungry-fins-the-game-0
+[190123398465191938] @jitterted (Wed Apr 11 10:05:25 PDT 2012): @atestguy Point taken, though people seem to understand what's being asked for when reminded to "stick to the facts".
+--> Is in reply to: @atestguy, replying to status: 190120258827321344 - @jitterted I think I prefer "tell us what you saw or heard" because facts sometimes aren't.
+[190119150495088640] @jitterted (Wed Apr 11 09:48:32 PDT 2012): RT @SFAgile2012: wanna submit a proposal 4 #sfagile2012 ? only 4 days left 2do it.  Don't miss it!  Don't say you've not been warned :-) ...
+[190118962456035328] @jitterted (Wed Apr 11 09:47:47 PDT 2012): "All we want are the facts" is the prime directive for root-cause analyses. Not opinions, not shoulda, woulda, but just the facts.
+[190107042718035968] @jitterted (Wed Apr 11 09:00:25 PDT 2012): @lukehohmann I'm surprised you're shocked. I'm shocked that only ~20 hours was wasted.
+--> Is in reply to: @lukehohmann, replying to status: 190105354976239616 - I'm shocked at how hard it is to initiate health insurance coverage for my employees. 20+ hours of my life wasted.
+[190078636563509248] @jitterted (Wed Apr 11 07:07:33 PDT 2012): @peterstev On that web page, you misspelled Steve's last name as "Drawing"? And you prob. meant "draws _from_ his award-winning..."
+--> Is in reply to: @peterstev, replying to status: 190077266397634560 - Applied pivoting(2): and @stevedenning & I have dramatically lowered the price :-) http://t.co/0q2gt1tD /c #stoos
+[189875524955410432] @jitterted (Tue Apr 10 17:40:27 PDT 2012): Let me know if you want to be on the #SFAgile2012 panel: "Mistakes Were Made: Learning From Failure" http://t.co/6cwomDmq via @SFAgile2012
+  http://t.co/6cwomDmq --> http://ideascale.com/t/UEv7Zf9o
+[189848626376355840] @jitterted (Tue Apr 10 15:53:34 PDT 2012): If you submitted a proposal to #SFAgile2012, make sure you're responding to the comments! Proposals are only tokens for conversations.
+[189840986724237312] @jitterted (Tue Apr 10 15:23:12 PDT 2012): @psnively Yah. Can we call it Ted's law? :)
+--> Is in reply to: @psnively, replying to status: 189840235121737730 - @jitterted Yes. That's become the Godwin's law phrase of language debate.
+[189840017072472065] @jitterted (Tue Apr 10 15:19:21 PDT 2012): RT @SFAgile2012: 5 more days to submit to the 4th and final wave to #sfagile2012 Remember!  it is your last chance so don't miss it!  :-)
+[189839069520470016] @jitterted (Tue Apr 10 15:15:35 PDT 2012): All arguments about programming languages end with "You can write bad code in any language".
+[189813666022035456] @jitterted (Tue Apr 10 13:34:39 PDT 2012): Gee, I'm _so_ surprised my #Agile2012 proposal was rejected (not). Though, I still don't understand why.
+[189793596440985600] @jitterted (Tue Apr 10 12:14:54 PDT 2012): Now that I'm streaming my Twitter timeline to my personal database, I find myself willing to follow more people.
+[189793088095522816] @jitterted (Tue Apr 10 12:12:53 PDT 2012): I don't want a "rockstar" developer. Sure, Neil Peart would be great, but that's the exception. Do you want an Axl Rose on your team?
+[189791940454268928] @jitterted (Tue Apr 10 12:08:19 PDT 2012): RT @daverooneyca: Don't forget to sign up for our #Agile Requirements Workshop in Ottawa on April 18-19, 2012: http://t.co/A7LroSzg $999 ...
+  http://t.co/A7LroSzg --> http://bit.ly/IlFSh4 --> http://agile-requirements-workshop-april-2012.eventbrite.ca/
+[189789870376493057] @jitterted (Tue Apr 10 12:00:05 PDT 2012): @lisacrispin Oh right, I remember that. Not sure it'll work, but I'll bring it up. Thx.
+--> Is in reply to: @lisacrispin, replying to status: 189774092017213440 - @jitterted this'n http://t.co/2bSG1Zo2
+[189787232339636224] @jitterted (Tue Apr 10 11:49:36 PDT 2012): @hotgazpacho Yammer's a bit too Facebook-like, but I haven't played with it enough.
+--> Is in reply to: @hotgazpacho, replying to status: 189773608850161664 - @jitterted more twitter like? How about Yammer?
+[189773110290030592] @jitterted (Tue Apr 10 10:53:29 PDT 2012): @hotgazpacho I'm not thrilled with BaseCamp. I want a bit more Twitter-like activity. But maybe I haven't played with it enough.
+--> Is in reply to: @hotgazpacho, replying to status: 189770611025911808 - @jitterted basecamp
+[189772627701792772] @jitterted (Tue Apr 10 10:51:34 PDT 2012): @lisacrispin Which telepresence device is that?
+--> Is in reply to: @lisacrispin, replying to status: 189770500162064385 - @jitterted we find the telepresence device extremely helpful - remote ppl can be "in the room"
+[189772559653408768] @jitterted (Tue Apr 10 10:51:18 PDT 2012): @atestguy Yes, they will. Because they want to. This is for the "Labs" team, all of 3 ppl right now.
+--> Is in reply to: @atestguy, replying to status: 189771163365425152 - @jitterted hmm. if folks don't pay attention to what is already in the room, will they pay attention to stuff that is not in the room?
+[189772294460145666] @jitterted (Tue Apr 10 10:50:15 PDT 2012): @atestguy Hey buddy, I didn't see any 'green' before those commits.
+--> Is in reply to: @atestguy, replying to status: 189772054495641602 - red - green - commit - refactor - commit - refactor - commit - ...
+[189772203674451968] @jitterted (Tue Apr 10 10:49:53 PDT 2012): RT @gilbroza: Got a great review of my manuscript - 14 hours after I sent it out! It's really coming together now (http://t.co/kFiVkG4h) ...
+  http://t.co/kFiVkG4h --> http://GetGilsBook.com
+[189770584656326657] @jitterted (Tue Apr 10 10:43:27 PDT 2012): You know you love panels: Mistakes Were Made: Learning From Failure - @ideascale http://t.co/6cwomDmq via @SFAgile2012
+  http://t.co/6cwomDmq --> http://ideascale.com/t/UEv7Zf9o
+[189770098918178816] @jitterted (Tue Apr 10 10:41:31 PDT 2012): What tools do distributed teams use for virtual "awareness", i.e., what you're up to, async chat, etc.?
+[189530975313735682] @jitterted (Mon Apr 09 18:51:20 PDT 2012): @daverooneyca I give up! I'm going out for a beer. See what you made me do??
+--> Is in reply to: @daverooneyca, replying to status: 189530517291532289 - @jitterted Don't make me resort to video! :)
+[189530335686574082] @jitterted (Mon Apr 09 18:48:47 PDT 2012): @daverooneyca Great. Now I want a beer even more.
+--> Is in reply to: @daverooneyca, replying to status: 189529796726886401 - @jitterted Here ya go:  http://t.co/YtOVJUw9 :)
+[189528765104267265] @jitterted (Mon Apr 09 18:42:33 PDT 2012): Need a beer. Or two.
+[189527903514533891] @jitterted (Mon Apr 09 18:39:08 PDT 2012): OK, I did not know that Google search has a recipe-specific search tool!
+[189527343159717889] @jitterted (Mon Apr 09 18:36:54 PDT 2012): RT @Bendre: #SFAgile2012 Wave 4 submissions open with idea from @tobiasmayer: http://t.co/ykk0qV0S The Why of #Scrum. Continue your voting!
+  http://t.co/ykk0qV0S --> http://bit.ly/HveNZo --> http://sfagilecon2012.ideascale.com/a/dtd/Pay-it-Forward-program-Panel-discussion/112777-17748#/a/dtd/The-Why-of-Scrum/115131-17748
+[189527041987710979] @jitterted (Mon Apr 09 18:35:42 PDT 2012): @pwiedel What about Rum Cake? Mmmm.
+--> Is in reply to: @pwiedel, replying to status: 189524817651826692 - Why is it that coffee cake is the only beverage themed cake? Why isn't there an orange juice cake, a soda cake, or tequila cake?
+[189526437907279872] @jitterted (Mon Apr 09 18:33:18 PDT 2012): vote For or Against: Mistakes Were Made: Learning From Failure - SF Agile Conference - by @IdeaScale http://t.co/6cwomDmq via @SFAgile2012
+  http://t.co/6cwomDmq --> http://ideascale.com/t/UEv7Zf9o
+[189483285502640128] @jitterted (Mon Apr 09 15:41:50 PDT 2012): @guitarnoize Niiiice!!
+--> Is in reply to: @guitarnoize, replying to status: 189482852746936320 - How cool is this shot I took of @chickenfootjoe at the Sydney G3, total fluke by the way :) http://t.co/ScObXbLp
+[189483177746767872] @jitterted (Mon Apr 09 15:41:24 PDT 2012): @greenhopperteam Yes and Yes. :)
+--> Is in reply to: @GreenHopperTeam, replying to status: 189482966366433282 - Does your team use GreenHopper? Heading to SF Agile Conference (http://t.co/Y92pOLiM)? Please let us know.
+[189470664913207297] @jitterted (Mon Apr 09 14:51:41 PDT 2012): @laurenmote_ What about misspelling "ridiculous", is that "rediculous [sic]"? :)
+--> Is in reply to: @LaurenMote_ [Error in Reply To Status ID = -1]
+[189463104210485248] @jitterted (Mon Apr 09 14:21:38 PDT 2012): @daedtech Zombie version control!
+--> Is in reply to: @daedtech, replying to status: 189461431815639042 - @jitterted I think it's dead *and* still being used...
+[189460598357098496] @jitterted (Mon Apr 09 14:11:41 PDT 2012): @daedtech Isn't ClearCase dead yet? My condolences.
+--> Is in reply to: @daedtech, replying to status: 189460256324198400 - Spending the whole day porting my last month's work from my own source control to a group #clearcase one.  If only I didn't have to do this.
+[189455599174565888] @jitterted (Mon Apr 09 13:51:49 PDT 2012): @tobiasmayer @peterstev If only 5% know it, yet the ideas are old, is that Radical? Iterative development in the 80's (was known since 60's)
+--> Is in reply to: @tobiasmayer, replying to status: 189453767576518656 - @peterstev @jitterted well, not really. I mean it was radical in the late 1970's when @imtomgilb proposed it, and even in the 90's with XP.
+[189453741794144256] @jitterted (Mon Apr 09 13:44:26 PDT 2012): @pledgerwood @davidjbland And then ask, "can we make this story even smaller?" all the time.
+--> Is in reply to: @pledgerwood, replying to status: 189453304529567744 - @jitterted @davidjbland I tend to think, at root, this ties into relative estimates being -time- estimates, which is a whole 'nother issue.
+[189453670436438017] @jitterted (Mon Apr 09 13:44:09 PDT 2012): @pledgerwood @davidjbland Agreed. Which is why I try to push ppl away from doing estimates at all and break stories down as small as possbl
+--> Is in reply to: @pledgerwood, replying to status: 189453304529567744 - @jitterted @davidjbland I tend to think, at root, this ties into relative estimates being -time- estimates, which is a whole 'nother issue.
+[189452587127418880] @jitterted (Mon Apr 09 13:39:51 PDT 2012): @davidjbland @pledgerwood Any PO that starts a sentence with "it's just..." gets taken out and re-educated. Possibly violently re-educated.
+--> Is in reply to: @davidjbland, replying to status: 189451824716185600 - @jitterted @pledgerwood "it's just a script…"
+[189452231811145728] @jitterted (Mon Apr 09 13:38:26 PDT 2012): @jeffsussna In my experience, it's a Twitter API problem -- which is why I have a separate place for a search for my username.
+--> Is in reply to: @jeffsussna, replying to status: 189451806215127040 - Is it me, or do some twitter mentions never show up in the #Echofon mentions pane? If so their fault or Twitter's?
+[189451514304139264] @jitterted (Mon Apr 09 13:35:35 PDT 2012): @pledgerwood @davidjbland Yah. And many developers would just give in instead of fight, which only makes it worse.
+--> Is in reply to: @pledgerwood, replying to status: 189451263010803713 - @jitterted @davidjbland Lol. It's surprising how many people don't know that reality doesn't always change just because you want it to.
+[189451051986984960] @jitterted (Mon Apr 09 13:33:45 PDT 2012): @pledgerwood @davidjbland Agreed, that's a wholly different problem and in that case the PO needs to be taken out and shot, err, educated.
+--> Is in reply to: @pledgerwood, replying to status: 189450715306000388 - @jitterted @davidjbland But if the issue is that the PO thinks your complexity estimates are wrong, then that suggests different remedies.
+[189450566831849472] @jitterted (Mon Apr 09 13:31:49 PDT 2012): @davidjbland @pledgerwood Yeah, unless the team doesn't believe they can do it (and will fight against it). But that's another story.
+--> Is in reply to: @davidjbland, replying to status: 189450278406336512 - @jitterted @pledgerwood Ideally you validate MVP before ever considering the story (which should be smaller than 13) #babysteps
+[189450194717376514] @jitterted (Mon Apr 09 13:30:20 PDT 2012): @tobiasmayer @peterstev Isn't "Radical" relative? Relative to typical management, Denning's theme _is_ radical.
+--> Is in reply to: @tobiasmayer, replying to status: 189449453890048001 - @peterstev The objective of Radical Management is not to be radical? Isn't that somewhat disingenuous? Is "radical" then just a buzz word?
+[189450015889035265] @jitterted (Mon Apr 09 13:29:38 PDT 2012): @pledgerwood @davidjbland I interpreted the original message as the complexity was bigger than desired.
+--> Is in reply to: @pledgerwood, replying to status: 189449311753486336 - @jitterted @davidjbland Maybe I misunderstood the original proposition. I thought the objection was that the complexity was wrong.
+[189449800436039680] @jitterted (Mon Apr 09 13:28:46 PDT 2012): @pledgerwood @davidjbland But that's where the PO can say "well, that won't work, how about these two pieces?"
+--> Is in reply to: @pledgerwood, replying to status: 189449011890098176 - @jitterted @davidjbland Now, if you say, "We can get you part of this in a shorter span of time, which smaller piece would you like?" Cool.
+[189449671016595456] @jitterted (Mon Apr 09 13:28:16 PDT 2012): @pledgerwood @davidjbland The PO can suggest changes to the story. Of course, so can anyone else on the team.
+--> Is in reply to: @pledgerwood, replying to status: 189449084250243073 - @jitterted @davidjbland But there's nothing the PO can do to make a 13 be a 5.
+[189448692380614656] @jitterted (Mon Apr 09 13:24:22 PDT 2012): @pledgerwood @davidjbland What do you see as the root issue?
+--> Is in reply to: @pledgerwood, replying to status: 189446970094530560 - @davidjbland @jitterted BTW: I agree the PO should help split stories, but I'm not sure that activity addresses the root issue.
+[189448517822054401] @jitterted (Mon Apr 09 13:23:41 PDT 2012): @pledgerwood @davidjbland I want the PO there to say "well, we don't need X in this story, will that make it smaller?"
+--> Is in reply to: @pledgerwood, replying to status: 189446195729547264 - @jitterted @davidjbland Yes, you want the PO there, because she can tell you the business value of the stories, but not the complexity.
+[189445942062219264] @jitterted (Mon Apr 09 13:13:26 PDT 2012): @pledgerwood @davidjbland I would assume you want the PO there, as all requirements are negotiation.
+--> Is in reply to: @pledgerwood, replying to status: 189445642744111104 - @davidjbland @jitterted How would you make it productive?
+[189444651114180608] @jitterted (Mon Apr 09 13:08:19 PDT 2012): RT @davidjbland: Product Owners, instead of saying "That's not a 13, that's a 5!!" try asking "How can help you make that a 5?"
+[189444492187799552] @jitterted (Mon Apr 09 13:07:41 PDT 2012): Stop trying to convince people the worthiness of practices, make the problems visible and let them solve it.
+[189423371086344192] @jitterted (Mon Apr 09 11:43:45 PDT 2012): @adamyuret I already created, launched, and sold my backup-your-instagram app, and I'm taking the money and investing it in #Zomblatt.
+--> Is in reply to: @AdamYuret, replying to status: 189421701870792704 - Winder how many "backup your instragram" startups began today?
+[189419095790329856] @jitterted (Mon Apr 09 11:26:46 PDT 2012): Saying that BasicDBList is "a basic implementation of bson list that is mongo specific" is NOT DOCUMENTATION. (sorry for the yelling)
+[189418501952389120] @jitterted (Mon Apr 09 11:24:24 PDT 2012): Probably the last time I'll be able to say that the Mets swept a series. Though I'm happy to be proven wrong.
+[189415807405666304] @jitterted (Mon Apr 09 11:13:42 PDT 2012): @atestguy Where there's tragedy, there's often a joke, so yes.
+--> Is in reply to: @atestguy, replying to status: 189413770655838208 - @jitterted there's a joke, a profound observation, or both in there related to nearsightedness
+[189415656431681536] @jitterted (Mon Apr 09 11:13:06 PDT 2012): @mikeorzenleanit Which is why I don't use the word "manager" anymore. It's tainted with command-and-control.
+--> Is in reply to: @MikeOrzenLeanIT, replying to status: 189415132466651138 - The job of a manager is to develop people through coaching - to develop autonomy, critical thinking/problem solving & alignment of purpose.
+[189414632908275712] @jitterted (Mon Apr 09 11:09:02 PDT 2012): That feeling when you're the lifeguard, but when folks are drowning they ask other drowning folks for help.
+[189413285563596800] @jitterted (Mon Apr 09 11:03:41 PDT 2012): Don't Just Pressure ALEC's Corporate Sponsors, Name and Shame ALEC Legislators http://t.co/mWszHZxQ via @prismatic
+  http://t.co/mWszHZxQ --> http://prsm.tc/EIVobo
+[189412800186163200] @jitterted (Mon Apr 09 11:01:45 PDT 2012): sigh. Teams are still talking about the usefulness of a story wall. "Nobody pays attention to it". "What's the benefit to us [developers]?"
+[189406261106835457] @jitterted (Mon Apr 09 10:35:46 PDT 2012): @justinwolfers It's great that Romney is able to make stuff up and nobody calls him on it. Awesome.
+--> Is in reply to: @justinwolfers, replying to status: 189405515137302528 - Romney: "More Americans have lost their jobs under Prez Obama than at any other time in modern history" http://t.co/siAcMRXD Didja forget W?
+[189405968843538432] @jitterted (Mon Apr 09 10:34:36 PDT 2012): When I set a goal in @RunKeeper, why doesn't it tell me that there's no way I'm ever gonna reach it? And perhaps suggest an attainable one?
+[189405594321563648] @jitterted (Mon Apr 09 10:33:07 PDT 2012): @beingagile oh god, stop! I'm having flashbacks! aughhh!
+--> Is in reply to: @BeingAgile, replying to status: 189405358643617792 - "whoever is typing, can you put yourself on mute please?" #meetingbingo
+[189405517301563393] @jitterted (Mon Apr 09 10:32:48 PDT 2012): OK, time to exclude the keyword 'instagram' from my Twitter stream for the next couple of days.
+[189405326154530817] @jitterted (Mon Apr 09 10:32:03 PDT 2012): @tulleuchen That's acceptable, cuz everyone will assume it's a typo and not that complete lack of grammar knowledge on your part. :)
+--> Is in reply to: @tulleuchen, replying to status: 189404824285085697 - @jitterted Sometimes in rush I accidentally type "get's". I think my finger memory associates it with let's for some reason.
+[189404274801905664] @jitterted (Mon Apr 09 10:27:52 PDT 2012): @verticalhorizon Must be an epidemic -- can't find mine either. And I used to have 3! They're sitting somewhere laughing right about now.
+--> Is in reply to: @VerticalHorizon, replying to status: 189403632767221760 - When I don't need an Allen/hex wrench (i.e. most times) they're EVERYWHERE. But when I do, they're all gone. Hex Key Conspiracy? Methinks.
+[189404048942833664] @jitterted (Mon Apr 09 10:26:58 PDT 2012): Not _it's_ awesomeness, _ITS_ awesomeness. I know English is hard, but has everyone stopped trying?!? It's IS ALWAYS A CONTRACTION..
+[189215982554849280] @jitterted (Sun Apr 08 21:59:40 PDT 2012): @qualityfrog Are they the equivalent of Red Shirts?
+--> Is in reply to: @QualityFrog, replying to status: 189215012345229313 - It seems that being assigned to work with SG-1 off world is a death sentence.
+[189171685910511616] @jitterted (Sun Apr 08 19:03:39 PDT 2012): @teradee Thought it was Bring Your Own Dog. Darn.
+--> Is in reply to: @teradee, replying to status: 189171073575690240 - BYOD is unstoppable. Smart companies must build apps http://t.co/cbS35uZi
+[189069027379904512] @jitterted (Sun Apr 08 12:15:43 PDT 2012): @bkadkins From my viewpoint, the rendering (esp. in non-IE browsers on Windows) of nice faces is awful, which doesn't help.
+--> Is in reply to: @bkadkins, replying to status: 189067767641686016 - @jitterted One of the disappointments in the move from print to Web has been the reduced role of typography. Presentation and style matter.
+[189063040040316930] @jitterted (Sun Apr 08 11:51:56 PDT 2012): "most software personnel have never seen software development at its best" - Forget best, how about just "good"? /ref http://t.co/j4uGxM63
+  http://t.co/j4uGxM63 --> http://ow.ly/a92Dr --> http://flowchainsensei.wordpress.com/2012/04/08/all-executives-are-unethical/
+[189055683558244352] @jitterted (Sun Apr 08 11:22:42 PDT 2012): @bkadkins It's the "for a while" that ends up being too much time, staring at and browsing pretty typefaces, their history, etc. :)
+--> Is in reply to: @bkadkins, replying to status: 189024528821784577 - @jitterted But typography is well worth obsessing over. At least for a while. Letterforms are vastly unappreciated forms of art. Write on!
+[188843053186957312] @jitterted (Sat Apr 07 21:17:47 PDT 2012): I so want this Nyan Cat Scarf! http://t.co/OvMnBkeH Wonder if it plays the tune if you squeeze the cat? /via @smoozle
+  http://t.co/OvMnBkeH --> http://instagr.am/p/JJNxIrCj3K/
+[188839640466341889] @jitterted (Sat Apr 07 21:04:13 PDT 2012): @kyouell @built @MichaelRpdx I believe it's the possessive form of 's vs. its that trips people up.
+--> Is in reply to: @KYouell, replying to status: 188832817445212161 - @built @MichaelRpdx @jitterted The apostrophe represents missing letter(s) in all contractions. It's = it is.
+[188786228882182146] @jitterted (Sat Apr 07 17:31:59 PDT 2012): but before I go, Chrome needs to get their font rendering into shape, the aliasing is killing my eyes.
+[188785341438754816] @jitterted (Sat Apr 07 17:28:27 PDT 2012): OK, enough obsessing about typography for my book, back to actually, y'know, writing it.
+[188761666329120768] @jitterted (Sat Apr 07 15:54:22 PDT 2012): .@wallingf @KevlinHenney Too bad Om doesn't seem to apply the principle to his own web page...and in resisting change, defeats his argument.
+[188743525117067265] @jitterted (Sat Apr 07 14:42:17 PDT 2012): @mr_hicks_fans Did you shoot any? Or was it just for sport? ;)
+--> Is in reply to: @MR_Hicks_Fans, replying to status: 188742526306500608 - After a little house hunting, time to make lasagna!
+[188743342912315393] @jitterted (Sat Apr 07 14:41:34 PDT 2012): @michaeldotjames Is Captivate still around? I thought it committed suicide, it was so bad.
+--> Is in reply to: @michaeldotjames, replying to status: 188742891550683137 - I wish they'd use Scrum (or ANYTHING with more testing and UAT) for Adobe Captivate. That thing is just full of bugs and bad UI.
+[188743179506425858] @jitterted (Sat Apr 07 14:40:55 PDT 2012): @michaeldotjames But is that Scrum or Scrumbut or AlmostScrum? I don't trust surveys, they indicate aspirations, not actions.
+--> Is in reply to: @michaeldotjames, replying to status: 188741587252150272 - In Adobe's survey of 25 teams, 80% of developers said they prefer Scrum. http://t.co/AkpXNIxA #Kindle
+[188730255568150530] @jitterted (Sat Apr 07 13:49:34 PDT 2012): @built My rule of thumb is "does it sound right if I use his or her instead"? e.g., its color or it's color? his color works, so use "its".
+--> Is in reply to: @built, replying to status: 188729096681951233 - Ugh, I can never remember that there is a rule for it's and its. #engrish
+[188723025905061888] @jitterted (Sat Apr 07 13:20:50 PDT 2012): @sorenmacbeth Hope they're OK. Are there really people who don't wear their seatbelt?!? Seems so 1970.
+--> Is in reply to: @sorenmacbeth, replying to status: 188722119025233921 - Just got news of a family member in a bad car accident. Seatbelt saved his life. Wear your fucking seatbelt.
+[188722799869837312] @jitterted (Sat Apr 07 13:19:56 PDT 2012): I wish @HootSuite would stop lying about the number of unread messages. Says '9 unread messages', but shows 1 new msg when I scroll to top.
+[188721155669098496] @jitterted (Sat Apr 07 13:13:24 PDT 2012): @andreachiou aaaand, the circle is closed. :-D
+--> Is in reply to: @andreachiou, replying to status: 188720504687960066 - @jitterted my AYE2010 notes: Ackoff's  'Art of Problem Solving' - mentioned in context of 'solve, manage, cope, exit' session. Interesting!
+[186638507291324416] @jitterted (Sun Apr 01 19:17:42 PDT 2012): @marlenac Give in to temptation.
+--> Is in reply to: @marlenac, replying to status: 186637933346955264 - So tempted to make all slides with fake, snarky metaphors for making software. #itslikefryingthebacon
+[186624180278657025] @jitterted (Sun Apr 01 18:20:46 PDT 2012): Loving CatBlock. :)
+[186623223943802880] @jitterted (Sun Apr 01 18:16:58 PDT 2012): @robbalducci That FB link didn't work?
+--> Is in reply to: @RobBalducci, replying to status: 186622352061243392 - See below for up coming Tour/clinic dates. Stay tuned in coming weeks for overseas dates!!!
+
+SHOWS & CLINICS
+Date... http://t.co/yQVRrF2q
+[186622181827022848] @jitterted (Sun Apr 01 18:12:50 PDT 2012): @vaguery @zspencer No matter where you go, there you are.
+--> Is in reply to: @Vaguery, replying to status: 186620640630018048 - @zspencer You haven't seen the Best Movie Every Made? Kids these days.
+[186618900216164352] @jitterted (Sun Apr 01 17:59:47 PDT 2012): I don't understand the relationship between spending on prisons and higher education, and why are they being compared. http://t.co/aRwdgkH8
+  http://t.co/aRwdgkH8 --> http://ow.ly/a0ONZ --> http://globalpublicsquare.blogs.cnn.com/2012/03/22/zakaria-incarceration-nation/
+[186584330355752961] @jitterted (Sun Apr 01 15:42:25 PDT 2012): @scrummasternz My codebase aspires to be that. But it's: http://t.co/yjnvZwIj
+--> Is in reply to: @ScrumMasterNZ, replying to status: 186583420615409665 - Devs under pressure will cut quality because its the least measurable, least visible, most code bases look like this http://t.co/gOLaDXTC
+  http://t.co/yjnvZwIj --> http://ow.ly/a0Ku9 --> http://www.michaeltotten.com/images/Garbage%20Slums%20of%20Fallujah.jpg
+[186566401601978369] @jitterted (Sun Apr 01 14:31:11 PDT 2012): @scrummasternz I like to ask "what things are you doing that make you the most agile"?
+--> Is in reply to: @ScrumMasterNZ, replying to status: 186564902255738880 - Asking the question "are you agile" to an org is like asking "are you honest" - what are they going to say? Need another angle #agileNZconf
+[186564878092353536] @jitterted (Sun Apr 01 14:25:07 PDT 2012): @bendre u might be the only one who thinks so. :-D
+--> Is in reply to: @Bendre, replying to status: 186553779393540096 - @jitterted U're funny Ted..CC: @lisacrispin
+[186552303246000128] @jitterted (Sun Apr 01 13:35:09 PDT 2012): @lisacrispin I think I saw it on the side of the road when I was running. Sorry I didn't pick it up, didn't know it was yours.
+--> Is in reply to: @lisacrispin, replying to status: 186551778605662208 - Have lost my #MHA2012 tweetdeck column.
+[186549303953731584] @jitterted (Sun Apr 01 13:23:14 PDT 2012): @tobiasmayer Worked for me.
+--> Is in reply to: @tobiasmayer, replying to status: 186548234263592962 - Just added disqus commenting to my http://t.co/ImxaOf2F blog, so commenting makes sense now, and isn't some hacky workaround. Test it out?
+[186549143353819137] @jitterted (Sun Apr 01 13:22:36 PDT 2012): @lisacrispin Yah, that's something I was afraid would happen -- need to get ppl more engaged. It's hard. :-/
+--> Is in reply to: @lisacrispin, replying to status: 186548672518037504 - Funny, some of the #SFAgile2012 ideas have a gazillion votes but no or few comments. I'd like to know WHY ppl vote one way or the other.
+[186546143709233153] @jitterted (Sun Apr 01 13:10:41 PDT 2012): Done. RT @lisacrispin: c'mon, I've commented on lots of #SFAgile2012 ideas, anyone else like to comment on http://t.co/yStSAbZi
+  http://t.co/yStSAbZi --> http://bit.ly/zGON8z --> http://sfagilecon2012.ideascale.com/a/dtd/Growing-the-Concept-of-a-Whole-Team/94363-17748
+[186535538625486848] @jitterted (Sun Apr 01 12:28:32 PDT 2012): Yes! http://t.co/y8hm5ast
+  http://t.co/y8hm5ast --> http://www.locusmag.com/Perspectives/2012/04/margaret-atwood-launches-new-sf-magazine/
+[186534385074446336] @jitterted (Sun Apr 01 12:23:57 PDT 2012): If you're going to make statements about spending, it'd be nice if you included a link to the source, otherwise it's just making stuff up.
+[186534025387720705] @jitterted (Sun Apr 01 12:22:31 PDT 2012): @crgonzalez Where is your data supporting this comparison?
+--> Is in reply to: @crgonzalez, replying to status: 186499450464780288 - CA spends $8.6K per student vs. $56K per prison inmate per year; CA built one college campus since 1980 & 21 prisons
+[186510811450191872] @jitterted (Sun Apr 01 10:50:17 PDT 2012): @daverooneyca Oh? Whatcha doin' in SFO?
+--> Is in reply to: @daverooneyca, replying to status: 186510431299444736 - @jbrains 'Tis but a short stay... off to SFO in a couple of hours
+[186275566155075584] @jitterted (Sat Mar 31 19:15:30 PDT 2012): Enjoying playing along with http://t.co/1FOKZuDO plus/tab-pro. For $8 (3 mos.) it's a good deal.
+  http://t.co/1FOKZuDO --> http://ultimate-guitar.com --> http://www.ultimate-guitar.com/
+[186263429961629696] @jitterted (Sat Mar 31 18:27:16 PDT 2012): I am now a Certified Agile Blogger. I can also drive you to the airport.
+[186253987937394688] @jitterted (Sat Mar 31 17:49:45 PDT 2012): .@wisemonkeyash It's those kinds of training companies that give Agile a bad name.
+--> Is in reply to: @wisemonkeyash, replying to status: 186230701711036416 - .@jitterted Good god that is #fail! Since when did a developer working 7 hours a day ever do 7 full hours of ACTUAL DEVELOPMENT?
+[186225716189343745] @jitterted (Sat Mar 31 15:57:25 PDT 2012): All those quotes were from Certified Scrum Trainers. Certification isn't helping here.
+[186225269034594304] @jitterted (Sat Mar 31 15:55:38 PDT 2012): "Daily team status is provided during the Daily Huddle." Hmm. I thought it was provided through the story wall or the like.
+[186224752938057728] @jitterted (Sat Mar 31 15:53:35 PDT 2012): Apparently the scrum master makes "sure that the team and the organization follow agile and scrum values and practices". All practices?
+[186222983927439360] @jitterted (Sat Mar 31 15:46:33 PDT 2012): 'The total number of hours that person has available.' - I didn't realize tracking people's available working hours in Scrum was important.
+[186222638157410304] @jitterted (Sat Mar 31 15:45:11 PDT 2012): @daedtech My pleasure. Let me know if you run into any problems.
+--> Is in reply to: @daedtech, replying to status: 186221823313190912 - @jitterted Cool -- thanks for the tip!
+[186222442795118593] @jitterted (Sat Mar 31 15:44:24 PDT 2012): I get confused by Sprint Backlog spreadsheets that mention "hours" (e.g., http://t.co/Y9fkd4cq). Hours??
+  http://t.co/Y9fkd4cq --> http://www.platinumedge.com/blog/anatomy-sprint-backlog
+[186221700092932096] @jitterted (Sat Mar 31 15:41:27 PDT 2012): @daedtech Oh yeah, really easy. Install it and then point it at an Eclipse project or create a new one. Works really well with Maven.
+--> Is in reply to: @daedtech, replying to status: 186220823521148928 - @jitterted Will give it a look.  Is it simple to set up?
+[186220580511555584] @jitterted (Sat Mar 31 15:37:00 PDT 2012): @daedtech I think you'll be happily surprised...IntelliJ's code completion is often magical. 11.1 release is simply awesome.
+--> Is in reply to: @daedtech, replying to status: 186220004662976512 - @jitterted Never seen IntelliJ before.  Advertises nice code complete which is something Eclipse sorely lacks.  I'm spoiled by VS with that
+[186218966136532992] @jitterted (Sat Mar 31 15:30:35 PDT 2012): @daedtech That's surprising and sad considering how advanced C# is over Java as a language. Oh, & try it in IntelliJ IDEA, it's even better
+--> Is in reply to: @daedtech, replying to status: 186217894605107200 - Wow, moving classes to new packages in Java/Eclipse is much more pleasant than moving classes to new namespaces in VS/C#
+[186190747119255553] @jitterted (Sat Mar 31 13:38:28 PDT 2012): RT @OpenJonathan: Know a child on the autism spectrum? We're donating free CareZone accounts to their families... 
+
+http://t.co/PxGfE4R1
+  http://t.co/PxGfE4R1 --> http://news.yahoo.com/autism-speaks-online-tech-leaders-team-innovative-autism-202213631.html
+[186189984661897216] @jitterted (Sat Mar 31 13:35:26 PDT 2012): 'to evaluate a leader, we must determine the factors over which that leader has a modicum of control' - sound familiar?
+[186146662769639425] @jitterted (Sat Mar 31 10:43:17 PDT 2012): @adamyuret @lanettecream I'd be less worried about 9am Saturday planned outages, more worried unplanned outage due to DB SPOF.
+--> Is in reply to: @AdamYuret, replying to status: 186145922093297664 - @jitterted Something toward which to aspire. :-) Tho I'd say @lanettecream should ask "Do #pivotaltracker users care about Sat outage?"
+[186144879221538816] @jitterted (Sat Mar 31 10:36:12 PDT 2012): @marlenac How about your twitter followers create your ppt slides and you can go take a break? :) Ur next slide shld be "Communication FTW".
+--> Is in reply to: @marlenac, replying to status: 186144013185851392 - @chris_mcmahon actually, she's procrastinating on powerpoint slides by looking at twitter.
+[186143456211640320] @jitterted (Sat Mar 31 10:30:32 PDT 2012): @andreachiou I'd ask them what, exactly, was meant by 70% and in what ways they were agile. I think even 10% being "real" Agile, wld be high
+--> Is in reply to: @andreachiou, replying to status: 186142786293219328 - @jitterted some if someone who speaks as an authority said it was 70%, what would be your gut reaction?
+[186142994494259200] @jitterted (Sat Mar 31 10:28:42 PDT 2012): @lanettecream @marlenac It does point to a worrisome SPOF...as a SaaS customer, I'd want understand this.
+--> Is in reply to: @lanettecream, replying to status: 186142404930318336 - Asking why doesn't mean I'm not chilled. It means I want to understand the tradeoffs that need to be considered.
+[186142374425141248] @jitterted (Sat Mar 31 10:26:15 PDT 2012): @adamyuret Easy to do if app is cloud-friendly or created for cloud. If ur db is trad. large relational+SQL, harder to do, esp. schema chgs.
+--> Is in reply to: @AdamYuret, replying to status: 186141220165259264 - @jitterted Redundant concurrent cloud environments for phased continuous delivery ftw. @lanettecream @PivotalTracker
+[186141940834762752] @jitterted (Sat Mar 31 10:24:31 PDT 2012): @lanettecream This is why I'm a believer in horiz. scalable DBs (MongoDB, etc.), no need to bring 'em all down to change. @PivotalTracker
+--> Is in reply to: @lanettecream, replying to status: 186141226528022529 - @jitterted Most clients I know would prefer temporary slow access during upgrades over NO access. Might consider 4 future. @pivotaltracker
+[186141380576428033] @jitterted (Sat Mar 31 10:22:18 PDT 2012): @andreachiou @davidjbland Good question. No idea how to get an answer. My guess is the percentage wld be similar to other very large orgs.
+--> Is in reply to: @andreachiou, replying to status: 186138808658558976 - @jitterted @davidjbland what do you think the percentage is of Dod projects trying agile practices?
+[186140927243456514] @jitterted (Sat Mar 31 10:20:30 PDT 2012): @lanettecream Sounds like the fact that they're directly dealing with hardware means no cloud. /cc @PivotalTracker
+--> Is in reply to: @lanettecream, replying to status: 186140254279974914 - @pivotaltracker I'm trying to figure out why, partly because my team does flex apps & we don't have downtime. So, no cloud for you guys?
+[186140767029432322] @jitterted (Sat Mar 31 10:19:51 PDT 2012): I wonder if measuring how many times "no" is said would be a useful indicator of openness vs. closedness (is that a word?).
+[186136501938167809] @jitterted (Sat Mar 31 10:02:54 PDT 2012): @davidjbland Is that a trick question? They appropriately applied what they thot waterfall was: made it easy to pay contractors.
+--> Is in reply to: @davidjbland, replying to status: 186135695969107968 - How many of you believe the Dept of Defense misapplied Waterfall from the beginning?
+[185949071347945472] @jitterted (Fri Mar 30 21:38:08 PDT 2012): @hotgazpacho I dunno. Multi-core processors have gotten complicated. :-/
+--> Is in reply to: @hotgazpacho, replying to status: 185943904481312769 - .@jitterted it's a Core i7, so I think it's two chips each with 4 cores. If I can use 2 cores (half a CPU), why not 6 (1 and a half CPUs)?
+[185943514583023617] @jitterted (Fri Mar 30 21:16:03 PDT 2012): @hotgazpacho Cuz 6 isn't a power of two? Maybe you don't have 8 independently controllable cores?
+--> Is in reply to: @hotgazpacho, replying to status: 185941839172476928 - My one quibble with VMWare Fusion: I have 8 cores. I can assign the VM 1, 2, 4, or 8 cores. Why not 6?
+[185888878601834496] @jitterted (Fri Mar 30 17:38:56 PDT 2012): Argh. I hate when some as yet unknown app on my machine is stealing my Shift+F10 keystroke.
+[185886724788977664] @jitterted (Fri Mar 30 17:30:23 PDT 2012): RT @richardveryard: My book on #orgintelligence is now available via @leanpub. http://t.co/EP3D7uE7
+  http://t.co/EP3D7uE7 --> http://leanpub.com/orgintelligence
+[185886695726649344] @jitterted (Fri Mar 30 17:30:16 PDT 2012): I'm here in San Francisco, should I go home, or hang out somewhere?
+[185866839442718722] @jitterted (Fri Mar 30 16:11:22 PDT 2012): 'Google believes the current model for selling tablets is broken' via @WSJ [They mean, broken for non-iPads] http://t.co/NR9cSyiI
+  http://t.co/NR9cSyiI --> http://on.wsj.com/Hl4lkE --> http://online.wsj.com/article/SB10001424052702303404704577312043639469540.html?mod=wsj_share_tweet
+[185866046249508864] @jitterted (Fri Mar 30 16:08:13 PDT 2012): If this surprises you, you haven't been paying attention: 'Groupon Restates Results, Reveals Weak Controls' http://t.co/Rqbyw9sc via @WSJ
+  http://t.co/Rqbyw9sc --> http://on.wsj.com/HpWzpt --> http://online.wsj.com/article/SB10001424052702303816504577313983768173826.html?mod=wsj_share_tweet
+[185862879063445504] @jitterted (Fri Mar 30 15:55:38 PDT 2012): @bendre Ask me in a few months -- I just switched to a new team.
+--> Is in reply to: @Bendre, replying to status: 185860200006291456 - Friday #fun poll: who is REALLY happy with their job?
+[185851771539832835] @jitterted (Fri Mar 30 15:11:29 PDT 2012): Fully normalized data isn't always what you want when "shared" data changes over time (e.g., addresses). #cloudfoundry
+[185850417454915585] @jitterted (Fri Mar 30 15:06:07 PDT 2012): @wisemonkeyash No, now we tackle them if they show up.
+--> Is in reply to: @wisemonkeyash, replying to status: 185849717266194432 - I've not read anything about Scrum in ages. Nobody tells business stakeholders they can't speak at standups any more, right?
+[185850310177206274] @jitterted (Fri Mar 30 15:05:41 PDT 2012): Nice, @MongoDB supports geospatial indexes (used by 4sq, et. al.) #cfoundry
+[185849694554034176] @jitterted (Fri Mar 30 15:03:14 PDT 2012): Alas, @MongoDB doesn't break the laws of physics, so building indexes will take time.
+[185849444556742656] @jitterted (Fri Mar 30 15:02:15 PDT 2012): Nice intro to @mongodb by @forjared at #cfoundry. Looking forward to playing with MongoDB this weekend.
+[185848058288934914] @jitterted (Fri Mar 30 14:56:44 PDT 2012): Presentation slides tip: don't use blue on black. Contrast doesn't show up on most projectors.
+[185844546733744128] @jitterted (Fri Mar 30 14:42:47 PDT 2012): NoSQL: attempts to avoid joins. (per @forjared at #cfoundry)
+[185843044287909888] @jitterted (Fri Mar 30 14:36:49 PDT 2012): Listening to @forjared at #cfoundry about @mongodb.
+[185842676283867137] @jitterted (Fri Mar 30 14:35:21 PDT 2012): @qualityfrog I see it as newProblem = oldProblem.solvedBy(solution);
+--> Is in reply to: @QualityFrog, replying to status: 185842237735845888 - solution = new problem(); RT @drunkcod: u don't get rid o problems. u simply trade em for other ones & hope new ones r easier to live with.
+[185842416627093504] @jitterted (Fri Mar 30 14:34:19 PDT 2012): Wish I knew why typos, misspellings and bad grammar show up in blink tags for me on the web.
+[185831903990005760] @jitterted (Fri Mar 30 13:52:33 PDT 2012): @ckeithray e.g., if you think you're Proficient, but you're really Adv. Beginner, then you might not be able to recognize other's level.
+--> Is in reply to: @ckeithray, replying to status: 185830668297703424 - Thinking about Dreyfus model and job interviews. Can a lower-level (Adv.Beginner/Competent) recognize higher-level (Proficient/Expert)?
+[185831659583709185] @jitterted (Fri Mar 30 13:51:34 PDT 2012): @ckeithray I'll throw out there that it would depend on one's awareness of one's own level.
+--> Is in reply to: @ckeithray, replying to status: 185830668297703424 - Thinking about Dreyfus model and job interviews. Can a lower-level (Adv.Beginner/Competent) recognize higher-level (Proficient/Expert)?
+[185776376522080256] @jitterted (Fri Mar 30 10:11:54 PDT 2012): My Agile @ Guidewire internal dev talks have focused more on _why_ Agile was born thru history of sw dev. /cc @jasongorman
+[185776135106342912] @jitterted (Fri Mar 30 10:10:56 PDT 2012): I've been teaching this. RT @jasongorman: Tweet Poll: RT if u think software dev would benefit from a stronger sense of what's gone before?
+[185513622800310274] @jitterted (Thu Mar 29 16:47:49 PDT 2012): Well that went much better than I thought. After adding a few regexes, I converted my JBehave stories to Cucumber(JVM) features. Just works.
+[185480786139553793] @jitterted (Thu Mar 29 14:37:20 PDT 2012): @gdinwiddie What, if anything, are you using for BDD? I'm finding JBehave to be surprisingly hard to use.
+--> Is in reply to: @gdinwiddie, replying to status: 185479282603212801 - @jitterted I found it not very easy to use in Eclipse, either.
+[185478665977610240] @jitterted (Thu Mar 29 14:28:54 PDT 2012): Lack of good Javadocs in JBehave keeps tripping me up. :-(
+[185478545215193089] @jitterted (Thu Mar 29 14:28:25 PDT 2012): I'm finding JBehave not very easy to use inside IntelliJ. Looking at Cucumber-JVM now.
+[185467486450364417] @jitterted (Thu Mar 29 13:44:29 PDT 2012): Darn it, got waylaid by pretty typography. #focus
+[185466928922501120] @jitterted (Thu Mar 29 13:42:16 PDT 2012): @oreillymedia Yay! Thanks much for the response. I <3 Safari Books Online. :)
+--> Is in reply to: @OReillyMedia, replying to status: 185465953625182210 - @jitterted Hi Ted: Thanks for your inquiry. That book has a small QA issue to address before it's on Safari. Should be by week's end. Bestgg
+[185454225113878528] @jitterted (Thu Mar 29 12:51:47 PDT 2012): @michaelbolton From my view, it's gotten better, but my writing needs might be different from yours. How do you see it worse on PCs?
+--> Is in reply to: @michaelbolton, replying to status: 185453422642860032 - @dhemery At first, yes. But it's been a decline since the beginning.
+[185451529560539136] @jitterted (Thu Mar 29 12:41:04 PDT 2012): @zspencer Yeah! Not much is better than deleting code!
+--> Is in reply to: @zspencer, replying to status: 185451044275363841 - Programming, motherfucker:   http://t.co/MbhgYCnu
+[185450470779789313] @jitterted (Thu Mar 29 12:36:52 PDT 2012): @oreillymedia Is there a reason "Code Simplicity" isn't available on Safari Online Books? :-(
+--> Is in reply to: @OReillyMedia, replying to status: 185412312390307841 - Code: It's essential. Now: It's 50% off. http://t.co/0GidoETT Save on new + top #code #ebooks
+[185446958100512769] @jitterted (Thu Mar 29 12:22:54 PDT 2012): RT @cyetain: How U avoid confirmation bias & Vanity Validation during #leanstartup #custdev? Let me know in comments section. http://t.c ...
+[185445943712301056] @jitterted (Thu Mar 29 12:18:53 PDT 2012): I want cloud storage for my Garmin Forerunner GPS data, so I can then point other services to it instead of uploading the same data 5 times.
+[185437409058635777] @jitterted (Thu Mar 29 11:44:58 PDT 2012): Why does @Spotify (and others) make it so hard to help them correct errors in their information? Let the crowd help you!
+[185426978411773953] @jitterted (Thu Mar 29 11:03:31 PDT 2012): Argh. And http://t.co/vouzIlgU's password policy only allows "Alphanumeric characters only (A-Z, 0-9)". What is this, 1997?
+  http://t.co/vouzIlgU --> http://Tor.com --> http://www.tor.com/
+[185426385295253504] @jitterted (Thu Mar 29 11:01:09 PDT 2012): @maritzavdh Awesome! Back to some pomodori for me.
+--> Is in reply to: @maritzavdh, replying to status: 185425831328358400 - @jitterted I'm doing well at finishing tonight.  *This* close to finishing another chapter in the book I'm writing. Good luck with your WIP!
+[185426134249373697] @jitterted (Thu Mar 29 11:00:10 PDT 2012): @cyetain lol. :)
+--> Is in reply to: @cyetain, replying to status: 185425658393014272 - @jitterted ;-) and I NEVER get away with it ;-)
+[185425713606836224] @jitterted (Thu Mar 29 10:58:29 PDT 2012): Wow. http://t.co/vouzIlgU's login failure handling is _awful_. A popup dialog followed by a mostly empty page.
+  http://t.co/vouzIlgU --> http://Tor.com --> http://www.tor.com/
+[185425091801264128] @jitterted (Thu Mar 29 10:56:01 PDT 2012): @cyetain Do you _always_ hate absolutes?
+--> Is in reply to: @cyetain, replying to status: 185424671758495744 - @flowchainsensei damn it I hate absolutes… I never get away with using them. @imtomgilb
+[185424357567377408] @jitterted (Thu Mar 29 10:53:06 PDT 2012): OK, I've killed another stillborn project, but my WIP is still too high. I'd better start finishing.
+[185423771560185856] @jitterted (Thu Mar 29 10:50:46 PDT 2012): @pchapuis Exactly. I've been saying that longer than ESR has, but he's more famous than I am. ;-)
+--> Is in reply to: @pchapuis, replying to status: 185354104867008514 - @jitterted @jblemee https://t.co/8YXHZmNw :)
+[185186670063267840] @jitterted (Wed Mar 28 19:08:37 PDT 2012): @tulleuchen Ah yes, installers are sorely underrated...which is odd, since that's the first thing people see.
+--> Is in reply to: @tulleuchen, replying to status: 185186222493286401 - @jitterted packaging the software and dependencies into an installer. which figures to install on various OSes.
+[185183992721571841] @jitterted (Wed Mar 28 18:57:59 PDT 2012): @tulleuchen Sorry, installers?
+--> Is in reply to: @tulleuchen, replying to status: 185145527174828032 - @jitterted Ah nice, all around the board. Are the installers in there anyway? I used to do installation and licensing work.
+[185144109978222593] @jitterted (Wed Mar 28 16:19:30 PDT 2012): @tulleuchen Aspects of software craftsmanship, knowledge of software dev (and processes) history, TDD/BDD, tester, scientist.
+--> Is in reply to: @tulleuchen, replying to status: 185143143631568897 - @jitterted So what does it mean to be a Renaissance coder?
+[185141568901091328] @jitterted (Wed Mar 28 16:09:24 PDT 2012): @tulleuchen Yup. My Blackstar gets lonely when I play exclusively through my DAW, so I need to give it attention on a weekly basis.
+--> Is in reply to: @tulleuchen, replying to status: 185140627367919616 - @jitterted ah! I don't have much of an amp to speak of so I'm always playing through my DAW anyway, or acoustic guitar. But we're in a house
+[185140223016042497] @jitterted (Wed Mar 28 16:04:03 PDT 2012): @tulleuchen For me, neighbors and/or other family members can be a constraint on amplified guitar playing. Unless I'm plugged into my DAW.
+--> Is in reply to: @tulleuchen, replying to status: 185126659471577090 - @jitterted how does late night effect guitar playing? fingers sore?
+[185124524361125888] @jitterted (Wed Mar 28 15:01:40 PDT 2012): @tulleuchen Guitar, always guitar. Unless it's late at night, then Keyboard with cool patches.
+--> Is in reply to: @tulleuchen, replying to status: 185124368651788288 - Guitar or Keyboard?
+[185124336225632257] @jitterted (Wed Mar 28 15:00:55 PDT 2012): If you can't remember the word 'curmudgeon', it's hard to Google for it.
+[185122516954648576] @jitterted (Wed Mar 28 14:53:42 PDT 2012): @wisemonkeyash And I'm sure the data was quite useful for that person's thesis. sigh.
+--> Is in reply to: @wisemonkeyash, replying to status: 185121836751798272 - @jitterted Had one on "agile methods" recently that asked "How often do you release? (a) Once every 1-3 weeks …"
+[185116708065910784] @jitterted (Wed Mar 28 14:30:37 PDT 2012): Ugh. So tired of "hi, I'm writing a thesis, can you fill out my survey" where the survey is poorly designed and terribly biased.
+[185115061554122752] @jitterted (Wed Mar 28 14:24:04 PDT 2012): @wisemonkeyash Poorly run retrospectives. Blame/vent sessions. Low/no trust.
+--> Is in reply to: @wisemonkeyash, replying to status: 185114534648889344 - @jitterted What causes do you see that intimidation coming from? I've seen many retrospectives that were very welcoming, others not so
+[185114702433615873] @jitterted (Wed Mar 28 14:22:38 PDT 2012): You don't want a confirmation dialog, you want a proper undo.
+[185114471038066688] @jitterted (Wed Mar 28 14:21:43 PDT 2012): @wisemonkeyash lol. Would love to hear any useful tidbits in running a RCA.
+--> Is in reply to: @wisemonkeyash, replying to status: 185055384782909443 - @jitterted Interestingly, tomorrow I'm in two sessions one after the other- one called "Root Cause Analysis", the second is "Retrospective"
+[185114125523894273] @jitterted (Wed Mar 28 14:20:21 PDT 2012): @vogella Great. Also, there's some problems in visual formatting of the web.xml files (e.g., section 3.3) and HTML (e.g., in 5.2).
+--> Is in reply to: @vogella, replying to status: 185044210028789760 - @jitterted thanks. Fixed. Will be in the next upload
+[185112227697795072] @jitterted (Wed Mar 28 14:12:48 PDT 2012): @wisemonkeyash The problem isn't the word, it's the activity people find intimidating. You could call it Zombestive and it'd be the same.
+--> Is in reply to: @wisemonkeyash, replying to status: 185104984663273474 - @jitterted @dmitrykandalov I'll have to keep an eye on whether it's an intimidating word, I've never seen direct evidence of that myself
+[185067660080451584] @jitterted (Wed Mar 28 11:15:43 PDT 2012): @krishnan When you said "better for business users" I went to that link and see someone with a snorkel mask. Only for snorkeling biz? :)
+--> Is in reply to: @krishnan, replying to status: 185065927530905600 - Google Hangouts just got infinitely better for business users https://t.co/9oDurk3O
+[185047134943453185] @jitterted (Wed Mar 28 09:54:09 PDT 2012): @lisacrispin Ahh, good point. I know there are examples of that, don't remember them, though. Not many.
+--> Is in reply to: @lisacrispin, replying to status: 185046176549179393 - @jitterted well, we aren't salesppl, we can't just go off on our own
+[185045383142060033] @jitterted (Wed Mar 28 09:47:11 PDT 2012): @lisacrispin Isn't that the idea behind 8th Light, Pivotal, etc.? Not quite a whole team, more of good people and a culture.
+--> Is in reply to: @lisacrispin, replying to status: 185043826111557633 - do y'all think an entire awesome dev team could just market itself as a team to some employer? :-> We're brainstorming
+[185042602607919104] @jitterted (Wed Mar 28 09:36:09 PDT 2012): @vogella "bug" in http://t.co/LWIEb9ay - in table of contents, 4.1 is missing a title.
+--> Is in reply to: @vogella [Error in Reply To Status ID = -1]
+  http://t.co/LWIEb9ay --> http://www.vogella.de/articles/REST/article.html --> http://www.vogella.com/articles/REST/article.html
+[185040366356008960] @jitterted (Wed Mar 28 09:27:15 PDT 2012): @srbaker That's the meta problem, which is much harder to deal with. When they don't know that there _is_ a problem.
+--> Is in reply to: @srbaker, replying to status: 185039639814483968 - What I'm learning is that people don't *know* they have quality problems. They just expect software to suck. It's depressing. :(
+[182272302182961152] @jitterted (Tue Mar 20 18:07:57 PDT 2012): @agileforall Must've been a fun rename project. :)
+--> Is in reply to: @AgileForAll, replying to status: 182271767509860352 - @jitterted Actually, I worked at IBM the summer before they shipped it so I did use it when it was called MS-DOS ;-)
+[182264872141201408] @jitterted (Tue Mar 20 17:38:26 PDT 2012): @adamyuret What spoon? What face? It's all in your mind.
+--> Is in reply to: @AdamYuret, replying to status: 182264469232160768 - @jitterted Then why does it hurt so much when the spoon hits my face? ;-) @andreachiou @Griff0Jones
+[182264736480636930] @jitterted (Tue Mar 20 17:37:54 PDT 2012): @grossberg yeah, I know. sigh. There are parts of Textile I prefer to Markdown, but there are also parts I hate. #CantWin
+--> Is in reply to: @grossberg, replying to status: 182263766849814528 - @jitterted I agree with you, but can you imagine the sh**storm if they implemented that change in a new version of Markdown? :)
+[182263553003233280] @jitterted (Tue Mar 20 17:33:11 PDT 2012): I wish Markdown used / for italics so it could use a single * for bold. I always think "bold" when I *see* things surrounded by an asterisk.
+[182259951660568576] @jitterted (Tue Mar 20 17:18:53 PDT 2012): @agileforall Don't you mean PC-DOS 1.0? That's what they called it when they shipped with the PC.
+--> Is in reply to: @AgileForAll, replying to status: 182257533552041985 - @DayleyAgile I guess I'm really old when my first IBM PC ran MS-DOS 1.0. <sigh>
+[182259475762262016] @jitterted (Tue Mar 20 17:16:59 PDT 2012): @andreachiou @Griff0Jones @AdamYuret Just remember that there is no spoon. And then it no longer matters. :)
+--> Is in reply to: @andreachiou, replying to status: 182254885079756800 - @Griff0Jones @jitterted @AdamYuret I'm having a Red Pill moment filling in proposal sections from the old world. Blah blah blah. Help!!!
+[182221580133343232] @jitterted (Tue Mar 20 14:46:24 PDT 2012): @gdinwiddie Seriously, the spelling on that is awful! "Strick [sic] instructions", "Stay focus[sic] and build", "Thing of the paste[sic]"???
+--> Is in reply to: @gdinwiddie, replying to status: 182219981730234369 - @estherschindler @jzb @Sqoot Can we also get a snarl for "Take a brake?" ;-)
+[182206034650210304] @jitterted (Tue Mar 20 13:44:38 PDT 2012): @ajimholmes Good to hear! Always nerve-wracking waiting.
+--> Is in reply to: @aJimHolmes, replying to status: 182204050048155648 - Dog's neck lump turned out to be yet another fat deposit. Thankfully benign.
+[182190115974692864] @jitterted (Tue Mar 20 12:41:23 PDT 2012): @ajimholmes That's awesome! Have you written up your experience? Sounds like a great story. /cc @AdamYuret
+--> Is in reply to: @aJimHolmes, replying to status: 182189737036099586 - @jitterted @adamyuret Runkeeper was part of a serious life change when I turned in to a T1 diabetic. Got me motivated to do 1/2 marathon
+[182188924570042368] @jitterted (Tue Mar 20 12:36:39 PDT 2012): @adamyuret Yah, except I won't be talking about it from a mobile app perspective...since I don't have a mobile app runner (iPad isn't)
+--> Is in reply to: @AdamYuret, replying to status: 182188098925506561 - @jitterted I'd love to see it because I'm mildly obsessed with mobile apps that game positive personal change. :-)
+[182188084060889089] @jitterted (Tue Mar 20 12:33:18 PDT 2012): @adamyuret Also, since I don't have a smartphone, I'm probably missing out on something there as well.
+--> Is in reply to: @AdamYuret, replying to status: 182187524784013312 - @jitterted How could they make it better?
+[182187934563307520] @jitterted (Tue Mar 20 12:32:43 PDT 2012): @adamyuret That'd take a blog post to answer. Maybe I'll write it, if only to stop complaining on twitter about it. ;-)
+--> Is in reply to: @AdamYuret, replying to status: 182187524784013312 - @jitterted How could they make it better?
+[182187461697482752] @jitterted (Tue Mar 20 12:30:50 PDT 2012): @jtf Yeah, I don't use the social aspects at all, so it's not for me. Switching to something else. (btw, hey! howaya??)
+--> Is in reply to: @Jtf, replying to status: 182187193677262849 - @jitterted I find it useful for social reasons more than performance tracking ones. Also sometimes discover something about my route.
+[182186993449582592] @jitterted (Tue Mar 20 12:28:58 PDT 2012): @ajimholmes Also, really annoying 3 page process to upload single track. And can't upload multiple at once. (which @Strava can)
+--> Is in reply to: @aJimHolmes, replying to status: 182186270401896448 - @jitterted for me @RunKeeper was awesome. Easy way to track milestones & progress.
+[182186615932854272] @jitterted (Tue Mar 20 12:27:28 PDT 2012): @ajimholmes Maybe it's behind the paid subscription, but I want to see my improvement in pace over time. I don't care about "total duration"
+--> Is in reply to: @aJimHolmes, replying to status: 182186270401896448 - @jitterted for me @RunKeeper was awesome. Easy way to track milestones & progress.
+[182185192281219072] @jitterted (Tue Mar 20 12:21:49 PDT 2012): OK, after two months using @RunKeeper I don't see the point. Really anemic on the stats.
+[182184010942910464] @jitterted (Tue Mar 20 12:17:07 PDT 2012): Anyone using design by contract libraries for Java? chex4j, cofoja, others?
+[182173259796725760] @jitterted (Tue Mar 20 11:34:24 PDT 2012): A3: I don't understand the use of the term "QA" here. I want testers, not a QA department. #testchat
+[182172279260717057] @jitterted (Tue Mar 20 11:30:30 PDT 2012): “Deciding what not to do is as important as deciding what to do,” Steve Jobs in http://t.co/3XwGGzTH
+  http://t.co/3XwGGzTH --> http://ow.ly/9LVG0 --> http://hbr.org/2012/04/the-real-leadership-lessons-of-steve-jobs/ar/1
+[182170963197173760] @jitterted (Tue Mar 20 11:25:16 PDT 2012): A2 Testers can't "assure" quality, nor can anyone else. You can increase the likelihood of quality, but "assure" is too strong. #testchat
+[181965285291593729] @jitterted (Mon Mar 19 21:47:59 PDT 2012): @jeantabaka gerunding. me liking that. #gerunding
+--> Is in reply to: @jeantabaka, replying to status: 181964714195165184 - @jitterted too correct you are Yoda. There is no thinking only doing. This is no verb, only gerunding. #grammar #twitter
+[181964230185066497] @jitterted (Mon Mar 19 21:43:47 PDT 2012): @jeantabaka Myself has long worried about this. Yoda, thou will end up as.
+--> Is in reply to: @jeantabaka, replying to status: 181963862256533504 - @jitterted hmmmm. U r right. Me is a 1st person OBJECT pronoun. Me clearer now. Focusing on over gerundizing now. Concerned. Lack of "am"
+[181919445818675201] @jitterted (Mon Mar 19 18:45:50 PDT 2012): @jeantabaka (and btw, "me" is also first-person singular as it refers to the speaker, at least according to my reference works)
+--> Is in reply to: @jeantabaka, replying to status: 181916710926958592 - @jitterted 1st person singular by definition is Subject not Object. Wondering if "me" is next to go ."We" soon to follow #twitter #grammar
+[181919009627832321] @jitterted (Mon Mar 19 18:44:06 PDT 2012): @jeantabaka well, "me" has already been replaced by "myself". #grammar
+--> Is in reply to: @jeantabaka, replying to status: 181916710926958592 - @jitterted 1st person singular by definition is Subject not Object. Wondering if "me" is next to go ."We" soon to follow #twitter #grammar
+[181916068145672192] @jitterted (Mon Mar 19 18:32:25 PDT 2012): @davidjbland yeah, but turns out the files I was looking for were in San Mateo. :)
+--> Is in reply to: @davidjbland, replying to status: 181915834002837504 - @jitterted The "cloud" is in Ashburn, Va
+[181914954784448512] @jitterted (Mon Mar 19 18:27:59 PDT 2012): @jeantabaka Subject or Object (I or me)?
+--> Is in reply to: @jeantabaka, replying to status: 181914393620135936 - @jbrains DOH! Am still curious. Demise of 1st person singular forever?
+[181853411073998848] @jitterted (Mon Mar 19 14:23:26 PDT 2012): The problem is, it's not one single cloud, it's lots of little clouds, some of which disappear when you look for it again.
+[181851120992399360] @jitterted (Mon Mar 19 14:14:20 PDT 2012): I wrote some awful code last year (on purpose) that I want to use (as an example) and I can't find it! I know it's in the cloud somewhere.
+[181850741516939264] @jitterted (Mon Mar 19 14:12:50 PDT 2012): RT @wear_here: If you choose to almost-but-not-quite implement Markdown in your site's textareas – that is, using your own syntax – you  ...
+[181834117812469760] @jitterted (Mon Mar 19 13:06:46 PDT 2012): @atlassian Help! I can't get to projects on the http://t.co/b3sjpbEJ site, I get redirected to the Atlassian home page.
+--> Is in reply to: @atlassian [Error in Reply To Status ID = -1]
+  http://t.co/b3sjpbEJ --> http://jira.com --> https://www.jira.com/
+[181818459640971266] @jitterted (Mon Mar 19 12:04:33 PDT 2012): Know when, where, and why errors occurred in your code.  Track them with Fubar! http://t.co/eqMSkOHu via @fubarapp
+  http://t.co/eqMSkOHu --> http://beta.fubar.io/?lrRef=a93G9
+[181801719682965504] @jitterted (Mon Mar 19 10:58:02 PDT 2012): Just got my copy of "Season of the Harvest" (it's free today!): http://t.co/IW1be0C2
+  http://t.co/IW1be0C2 --> http://ow.ly/9KlIa --> http://www.amazon.com/gp/product/B004MME1RU/ref=as_li_ss_tl?ie=UTF8&tag=tedteamintraining-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B004MME1RU --> http://www.amazon.com/Season-Of-The-Harvest-ebook/dp/B004MME1RU
+[181801007460794368] @jitterted (Mon Mar 19 10:55:12 PDT 2012): RT @KreelanWarrior: The bestselling thriller #SeasonOfTheHarvest is #FREE today for #Kindle! Check it out at http://t.co/67xWFaAp Pls #RT!
+  http://t.co/67xWFaAp --> http://bit.ly/oMWmXr --> http://authormichaelhicks.com/books/season-of-the-harvest/
+[181784938486562816] @jitterted (Mon Mar 19 09:51:21 PDT 2012): RT @raganwald: “What I’ve Learned From Failure” e-book, free for 24 hours http://t.co/8bMlOvi0
+  http://t.co/8bMlOvi0 --> http://news.ycombinator.com/item?id=3724687
+[181595002915401729] @jitterted (Sun Mar 18 21:16:37 PDT 2012): @griff0jones lol...might be a recursive fine...or might be self-exempting. :)
+--> Is in reply to: @Griff0Jones, replying to status: 181594448260640768 - Sounds like a best ... oh, wait. @jitterted If I ran a company, every time someone used the words "Best Practice" they would be fined $10.
+[181594699264557056] @jitterted (Sun Mar 18 21:15:24 PDT 2012): @griff0jones I no longer have the energy to try and solve it...the non-system-thinkers simply don't see the problems that I do.
+--> Is in reply to: @Griff0Jones, replying to status: 181594130563080193 - SoundsLikeAProblem2Solve @jitterted @andreachiou @AdamYuret great while I'm at AYE, but then >frustrating when I get back 2"real" world. /cc
+[181550307065610240] @jitterted (Sun Mar 18 18:19:00 PDT 2012): If I ran a company, every time someone used the words "Best Practice" they would be fined $10.
+[181547926202486784] @jitterted (Sun Mar 18 18:09:33 PDT 2012): @vydra Are there any? More than a few?
+--> Is in reply to: @vydra, replying to status: 181547064696651776 - @jitterted now we just need to make a list of companies who are friendly to talented exploratory testers -- cause not all of them are :)
+[181547661814538241] @jitterted (Sun Mar 18 18:08:30 PDT 2012): @griff0jones It's great while I'm at AYE, but then more frustrating when I get back to the "real" world. /cc @andreachiou @AdamYuret
+--> Is in reply to: @Griff0Jones, replying to status: 181537951249997824 - @andreachiou @AdamYuret @jitterted   AYE.  Just signed up. It is good for my soul.
+[181547188529274880] @jitterted (Sun Mar 18 18:06:37 PDT 2012): @andreachiou I'm trying to stop flogging myself about blogging more...I'm trying to post for me, not others. /cc @griff0jones @AdamYuret
+--> Is in reply to: @andreachiou, replying to status: 181536342851850240 - @Griff0Jones @AdamYuret @jitterted maybe I'll try to write my 4th blogpost on it! Maybe draw it on back of a napkin (just finished reading)
+[181546654212694016] @jitterted (Sun Mar 18 18:04:29 PDT 2012): @andreachiou Yah, it's frustrating to see the huge mistakes being made from a Sys Thinking POV that otherwise might make sense.
+--> Is in reply to: @andreachiou, replying to status: 181531912949608448 - @jitterted yea, this is part of the reason my search for next gig is hard. I have visions of better places that don't exist. Picky..
+[181531462867234819] @jitterted (Sun Mar 18 17:04:08 PDT 2012): "Apple to detail plans for $100bln" -- Apple's gonna give $1,000 to every household! http://t.co/OWthR6pZ
+  http://t.co/OWthR6pZ --> http://ow.ly/9Jfws --> http://www.marketwatch.com/story/apple-to-hold-special-call-monday-on-use-of-cash-2012-03-18?siteid=bnbh
+[181529008356331520] @jitterted (Sun Mar 18 16:54:22 PDT 2012): Would I be happier if I had taken the blue pill? http://t.co/OYY5xrqb
+  http://t.co/OYY5xrqb --> http://thinkpurpose.com/2012/03/17/7-reasons-you-shouldnt-touch-systems-thinking/
+[181503695912050688] @jitterted (Sun Mar 18 15:13:47 PDT 2012): @vydra Exactly...that's why tester-developer pairing is so full of awesome. #Pairing
+--> Is in reply to: @vydra, replying to status: 181499969574936576 - @jitterted Great testers can test a developer's mental model via insightful questions and this prevent bugs before the code is written.
+[181419218607149056] @jitterted (Sun Mar 18 09:38:06 PDT 2012): @marcjohnson http://t.co/d55yInq2 helped a lot.
+--> Is in reply to: @marcjohnson, replying to status: 181295290425413634 - @jitterted how did you learn this? Experiment? Book? Other?
+  http://t.co/d55yInq2 --> http://www.infoq.com/articles/write-behind-caching
+[181239167810932736] @jitterted (Sat Mar 17 21:42:39 PDT 2012): A closed mind gathers no new thoughts.
+[181238533409873920] @jitterted (Sat Mar 17 21:40:08 PDT 2012): The comments on this (http://t.co/RWOUvvkA) are why I stopped trying to convince people to pair program and just work with those who want to
+  http://t.co/RWOUvvkA --> http://ow.ly/9INr8 --> http://techcrunch.com/2012/03/17/pair-programming-considered-extremely-beneficial/?utm_source=feedburner&utm_medium=feed&utm_campaign=Feed%3A+Techcrunch+%28TechCrunch%29
+[181237172114952192] @jitterted (Sat Mar 17 21:34:43 PDT 2012): Ah cool, now I understand the data access patterns where a write-back cache is appropriate. I love learning!
+[181202202340233218] @jitterted (Sat Mar 17 19:15:46 PDT 2012): http://t.co/OsTuly4P and in unrelated news, my company's HR is posting signs all urging folks to fill out the employee survey.
+  http://t.co/OsTuly4P --> http://ow.ly/9IL1O --> http://fistfuloftalent.com/2012/03/your-employee-survey-wont-tell-you.html
+[181199924313079808] @jitterted (Sat Mar 17 19:06:43 PDT 2012): @tulleuchen Um, yes? Both?
+--> Is in reply to: @tulleuchen, replying to status: 181198603916816384 - Star Wars or Star Trek?
+[181198481023705088] @jitterted (Sat Mar 17 19:00:59 PDT 2012): Oh, and the McKinsey Quarterly site doesn't like the (completely valid) plus sign in my email address. #+Fail
+[181198056815996928] @jitterted (Sat Mar 17 18:59:17 PDT 2012): I have trouble registering for the McKinsey Quarterly site, so I went to the help area of the site, which requires me to log in. Wat?
+[181194912509865984] @jitterted (Sat Mar 17 18:46:48 PDT 2012): @dhemery what was chasing the cat?
+--> Is in reply to: @dhemery, replying to status: 181192640870629376 - First there was a turkey walking down our street. Then there was a cat chasing a turkey down our street.
+[181173083212750849] @jitterted (Sat Mar 17 17:20:03 PDT 2012): @dhmspector I think SB is tired of you taking pictures of her...but don't stop. :)
+--> Is in reply to: @dhmspector, replying to status: 181170397826400256 - http://t.co/fGQ5xA6o
+[181146793357213696] @jitterted (Sat Mar 17 15:35:35 PDT 2012): Is there a feedback loop in your hiring process? If not, how do you know it's working right?
+[181143425763127296] @jitterted (Sat Mar 17 15:22:12 PDT 2012): @440tv Why do I keep getting "Embedding this video is disabled by its owner." on videos on your site?
+--> Is in reply to: @440tv, replying to status: 181142143925092352 - #Video - Learn guitar octave lead licks lesson styles of Hendrix Wes Montgomery Satriani http://t.co/xhc2fA5E
+[181131242148855808] @jitterted (Sat Mar 17 14:33:48 PDT 2012): http://t.co/RWfILEb3 -- actually gives 2 reasons, but quite on target. Ppl leave cuz they're badly manged and org is confusing.
+  http://t.co/RWfILEb3 --> http://ow.ly/9IEui --> http://www.forbes.com/sites/erikaandersen/2012/01/18/why-top-talent-leaves-top-10-reasons-boiled-down-to-1/
+[181124660774178820] @jitterted (Sat Mar 17 14:07:38 PDT 2012): @mattbarcomb Yah, I'm not sure about the proctologist analogy either, but I do like the perspective -- very much "think global, act local".
+--> Is in reply to: @mattbarcomb, replying to status: 181123966579113984 - @jitterted *edited* Thanks! (trying to decide how far to push the agile coach as a proctologist meme ;)
+[181123453808680960] @jitterted (Sat Mar 17 14:02:51 PDT 2012): @mattbarcomb Nice blog entry. I liked the idea of over-optimizing. (btw, you have a typo "one approach it [sic]")
+--> Is in reply to: @mattbarcomb, replying to status: 181122421041012737 - Freshly blogged: "Stop B*tching About Local Optimizations" -- http://t.co/OT2ptUXK
+[181116264167641088] @jitterted (Sat Mar 17 13:34:17 PDT 2012): And no, I didn't read http://t.co/7Fv7gvh8 before I made those comments.
+  http://t.co/7Fv7gvh8 --> http://blogs.hbr.org/cs/2012/03/bring_back_the_organization_ma.html
+[181115863636783105] @jitterted (Sat Mar 17 13:32:41 PDT 2012): @jchyip Interesting point...means that there are times when screening for skills is appropriate, i.e., immediate/important need.
+--> Is in reply to: @jchyip, replying to status: 181114066222329856 - @jitterted Screening for skills suggests a tactical vs strategic role for recruiting
+[181107937534685186] @jitterted (Sat Mar 17 13:01:11 PDT 2012): I never learned so much as a developer than when I was "teaching" others. Nothing like questions to solidify understanding (theirs AND mine)
+[181105873324744705] @jitterted (Sat Mar 17 12:52:59 PDT 2012): RT @OlavMaassen: Our crowd funding project for our real options book is live! Please help us promote this. http://t.co/sb4AWcTd Please R ...
+  http://t.co/sb4AWcTd --> http://bit.ly/fundrobook --> http://www.sponsume.com/project/commitment-novel-managing-project-risk
+[181105001744183296] @jitterted (Sat Mar 17 12:49:31 PDT 2012): Dismayed that we still screen candidates for skills instead of passion and attitude. I'll teach you the skills, you have to want to learn.
+[181097753340940288] @jitterted (Sat Mar 17 12:20:43 PDT 2012): Tell your Rep.: Co-sign Rep Pingree's letter telling @USDANutrition to drop Pink Slime from school lunches: http://t.co/WAwslzEo
+  http://t.co/WAwslzEo --> http://bit.ly/ycF6uw --> http://act.credoaction.com/campaign/pingree_pink_slime/?rc=tw_email
+[181094830674419715] @jitterted (Sat Mar 17 12:09:06 PDT 2012): @lanettecream Well that's not right -- it revolves around me.
+--> Is in reply to: @lanettecream, replying to status: 181065026751307777 - 1 in 5 Americans believes the Sun revolves around the Earth.
+[180867942026715136] @jitterted (Fri Mar 16 21:07:32 PDT 2012): @davidjbland Who's representing #LeanZomblatt?
+--> Is in reply to: @davidjbland, replying to status: 180866981296222209 - Go vote for one of the best #LeanStartup Panels of 2012 with @sgblank @JoshuaKerievsky @mcookk & @williampietri http://t.co/pwAsOX6G
+[180809271863296001] @jitterted (Fri Mar 16 17:14:24 PDT 2012): @bphogan Yah, that's the huge risk of using SaaS. If the company goes away, the software might, too.
+--> Is in reply to: @bphogan, replying to status: 180808963502247936 - as a web developer it kills me to say that at least I'd still have these apps to use if they were desktop apps. :(
+[180798303351480320] @jitterted (Fri Mar 16 16:30:49 PDT 2012): Maybe I shouldn't be updating all my iPad apps today...
+[180797037216940033] @jitterted (Fri Mar 16 16:25:47 PDT 2012): Really? EMC bought Pivotal Labs? Huh? http://t.co/1r6VaVVo
+  http://t.co/1r6VaVVo --> http://gigaom.com/cloud/exclusive-emc-buys-pivotal-labs/
+[180796850431991809] @jitterted (Fri Mar 16 16:25:02 PDT 2012): @hotgazpacho I'm not sure, I didn't see any warnings.
+--> Is in reply to: @hotgazpacho, replying to status: 180796160691277824 - @jitterted the cluster on the SSD that died without warning, right ;)
+[180795991069437952] @jitterted (Fri Mar 16 16:21:37 PDT 2012): @hotgazpacho Sorry, that part of your tweet was stored in a different cluster. ;-)
+--> Is in reply to: @hotgazpacho, replying to status: 180795163432583168 - @jitterted perhaps you missed the "without warning" part of my tweet ;)
+[180794916216115200] @jitterted (Fri Mar 16 16:17:21 PDT 2012): omg, don't check in your entire deployment directory (war file, etc.) into github!
+[180794691506286593] @jitterted (Fri Mar 16 16:16:28 PDT 2012): @hotgazpacho Yeah, I left out the part that you need more than one. And you need to monitor them.
+--> Is in reply to: @hotgazpacho, replying to status: 180793186371903488 - @jitterted until they die without warning ;)
+[180787479018876928] @jitterted (Fri Mar 16 15:47:48 PDT 2012): Words that should not be allowed in code comments for a class: "represents", "describes", (and many more).
+[180785749875105792] @jitterted (Fri Mar 16 15:40:56 PDT 2012): @gerrykirk No, but shoe sizes make no sense, so after ordering 20 pairs of shoes, I gave up and had to just try on a bunch at a store.
+--> Is in reply to: @gerrykirk, replying to status: 180785153231163392 - @jitterted you have odd sized feet? Dang @americanexpress your offer only good w US cards. #amexsync
+[180784684031164418] @jitterted (Fri Mar 16 15:36:42 PDT 2012): @gerrykirk Good luck. I was never able to get shoes of the right size from @zappos, ended up buying at a physical store.
+--> Is in reply to: @gerrykirk, replying to status: 180783634578542592 - Gonna try buying some shoes from @zappos with the help of #AmexZappos
+[180777023478833152] @jitterted (Fri Mar 16 15:06:15 PDT 2012): Lesson learned yesterday: SSDs solve all scalability problems.
+[180776514139340800] @jitterted (Fri Mar 16 15:04:14 PDT 2012): @cyetain That's what I keep saying. I don't understand why people make it so hard.
+--> Is in reply to: @cyetain, replying to status: 180774063185215488 - @jitterted this would all be much easier if everyone would just do what I say without having to explain myself all the time. ;-)
+[180774305372704768] @jitterted (Fri Mar 16 14:55:27 PDT 2012): @jasonlittle you have to give them time, they may have already printed the labels for the...oh, wait.
+--> Is in reply to: @jasonlittle, replying to status: 180772616620089344 - wow, "up to 10 business days" for ZDNet to process an un-subscribe?  what year is this?  #epic ...............#fail
+[180773882054197248] @jitterted (Fri Mar 16 14:53:46 PDT 2012): @cyetain What's the point in doing that?!?
+--> Is in reply to: @cyetain, replying to status: 180771918725644289 - U know that whole hire people who r smarter than u thing? 
+ 
+PROTIP: Once u hire the u should probably listen to them
+[180720097105686528] @jitterted (Fri Mar 16 11:20:03 PDT 2012): @440tv I get "Embedding this video is disabled by its owner". :-(
+--> Is in reply to: @440tv, replying to status: 180719423320096768 - #Video - NAMM2012 TC Electronic PolyTune Mini http://t.co/LfVLiD8U
+[180717721678381057] @jitterted (Fri Mar 16 11:10:37 PDT 2012): @coreyhaines Do you capture the paths not taken? i.e., decided not to do X in this way.
+--> Is in reply to: @coreyhaines, replying to status: 180717071569666050 - @jitterted for long-term documenting decisions, I use rspec
+[180716443669757953] @jitterted (Fri Mar 16 11:05:32 PDT 2012): @coreyhaines Have you found any tool(s) to help u document decisions? I've come across few, but haven't tried them.
+--> Is in reply to: @coreyhaines, replying to status: 180706235530743808 - Documenting decisions I make while building an application is an interesting exercise. Working towards video series.
+[180498085850521600] @jitterted (Thu Mar 15 20:37:51 PDT 2012): Rick explains why Cassandra, designed in a world of spinning disks, works better than others on SSD due to sequential vs. random writes.
+[180492103112065025] @jitterted (Thu Mar 15 20:14:05 PDT 2012): Walmart product catalog relationships are complex: hierarchical, graph...need to handle bundles.
+[180491155866255363] @jitterted (Thu Mar 15 20:10:19 PDT 2012): Walmart product catalog is complex (which I know, having worked on eBay's item attribute system), and is a great use case for Cassandra.
+[180490968259239936] @jitterted (Thu Mar 15 20:09:34 PDT 2012): @ckeithray How do you know someone didn't already do that and it caused worldwide havoc, so they had to go add it back?
+--> Is in reply to: @ckeithray, replying to status: 180489163341172736 - We need to send someone back in time, to eliminate reality shows from our timeline.
+[180479906180902912] @jitterted (Thu Mar 15 19:25:37 PDT 2012): After a day of cloud, an evening @WalmartLabs of Cassandra.
+[180470465289129985] @jitterted (Thu Mar 15 18:48:06 PDT 2012): .@nepariscom The nice thing is that the company doesn't have to show lots of code. I also think companies overestimate value of raw code.
+--> Is in reply to: @nepariscom, replying to status: 180468641031135234 - @troytuttle @jitterted Awesome idea. I wonder how willing a company would be to show code like this.
+[180447877779300353] @jitterted (Thu Mar 15 17:18:21 PDT 2012): If you don't have good API docs, devs will go elsewhere.
+[180433783521148928] @jitterted (Thu Mar 15 16:22:20 PDT 2012): RT @daverooneyca: Hey #Ottawa software developers - are you interested in a 1 or 2-day Agile Engineering Practices Workshop? (please RT)
+[180406510877290497] @jitterted (Thu Mar 15 14:33:58 PDT 2012): @troytuttle Exactly -- says a lot about the culture if companies are afraid of being "interviewed". I've always said interviews are 2-way.
+--> Is in reply to: @troytuttle, replying to status: 180406082076819456 - @jitterted I think what they (companies) fear is being interviewed themselves. Predominant mindset is a one-way process. c/ @pledgerwood
+[180406215459880960] @jitterted (Thu Mar 15 14:32:48 PDT 2012): @troytuttle @pledgerwood As an interviewer, I love to hear them ask detailed questions about dev process, coding practices, etc.
+--> Is in reply to: @troytuttle, replying to status: 180405475660152832 - @pledgerwood @jitterted Lots of folks been calling for interviewees to be made to code. A better question might be can the interviewer code?
+[180405640441765890] @jitterted (Thu Mar 15 14:30:31 PDT 2012): #Heroku is telling me the add-on price for apigee is "$ heroku addons:add apigee:basic". Not sure that's an amount I can pay.
+[180405106829819904] @jitterted (Thu Mar 15 14:28:23 PDT 2012): @pledgerwood Interesting analogy, cuz you'd be wearing those underthings every single day.
+--> Is in reply to: @pledgerwood, replying to status: 180404537956384769 - @troytuttle @jitterted I think that's a great idea, but I'm guessing the co's reaction would be like asking to see their underthings.
+[180404625386651649] @jitterted (Thu Mar 15 14:26:29 PDT 2012): @troytuttle Interesting that some might be offended...I'd wonder what they're afraid of.
+--> Is in reply to: @troytuttle, replying to status: 180401045111980032 - @jitterted Great question. I think many companies would be caught off guard and maybe offended by that request.
+[180400404067139584] @jitterted (Thu Mar 15 14:09:42 PDT 2012): As potential employee, would u work for a company w/o seeing the workplace? If not, do you also ask to see the codebase you'll be living in?
+[180398677620301824] @jitterted (Thu Mar 15 14:02:51 PDT 2012): @agilecoach It's a more powerful virus than pairing/close-collaborating, because it's so much easier to do pairing/collab wrong.
+--> Is in reply to: @agilecoach, replying to status: 180397675223580672 - I'm seeing so much evidence *against* people working alone in cubes I want to pull my hair out. #agile #Scrum & surely #pairprogramming
+[180398299180838912] @jitterted (Thu Mar 15 14:01:20 PDT 2012): Great. Trying heroku add-on at cloudstock's heroku presentation, but found bug in price info. #BugMagnet
+[173927823172579328] @jitterted (Sun Feb 26 16:29:59 PST 2012): Guaranteed better than the #Oscars: Early-bird tickets for #SFAgile2012 conference are on sale now! Buy here: http://t.co/9MkCAsn2
+  http://t.co/9MkCAsn2 --> http://ow.ly/95BTi --> http://sfagilecon2012.eventbrite.com/
+[173926456328585217] @jitterted (Sun Feb 26 16:24:33 PST 2012): @agilemanager Are you actually defending the CSM Certification? Does the CSM meet similar standards of "qualified" as found in University?
+--> Is in reply to: @agilemanager, replying to status: 173924992839462912 - @AdamYuret universities also require you to be "qualified" for an exam, often requiring attendance & practical work completed
+[173925912377700354] @jitterted (Sun Feb 26 16:22:23 PST 2012): See that last tweet? The math was wrong...please replace 1/100 with "any of".
+[173925414585122817] @jitterted (Sun Feb 26 16:20:24 PST 2012): THIS is more important than the Oscars: http://t.co/alh7M4em -- but it will never get 1/100th the media exposure that the Oscars get. Sad.
+  http://t.co/alh7M4em --> http://ow.ly/9iGus --> http://open.salon.com/blog/annie_keeghan/2012/02/17/afraid_of_your_childs_math_textbook_you_should_be
+[173921950740135937] @jitterted (Sun Feb 26 16:06:39 PST 2012): RT @mpoppel: BREAKING NEWS -- WikiLeaks begins publishing 5 million emails from STRATFOR. Details: http://t.co/a4R3SimK
+  http://t.co/a4R3SimK --> http://pastebin.com/D7sR4zhT
+[173917296211922944] @jitterted (Sun Feb 26 15:48:09 PST 2012): @kreelanwarrior It's the least I could do...had been procrastinating writing it cuz I didn't know how to do it justice. :)
+--> Is in reply to: @KreelanWarrior, replying to status: 173908043162058753 - @jitterted Awesome! Glad u enjoyed it, and thanks for taking the time to do a review! :-)
+[173917118650253314] @jitterted (Sun Feb 26 15:47:26 PST 2012): @agilemeister Totally with you...was just trying to be funny. :)
+--> Is in reply to: @agilemeister, replying to status: 173916482131066881 - @jitterted lol I guess I am cranky because I simply do not care about the Oscars I even unfollowed @BBCWorld becos' of its Oscars RTs.
+[173912189080580096] @jitterted (Sun Feb 26 15:27:51 PST 2012): @agilemeister Oscars r awesum! Wooo! Yeah! Oscars! [srsly, working on SF Agile instead]
+--> Is in reply to: @agilemeister, replying to status: 173910967204323329 - Unfollowing those who r making a big deal of the Oscars. There r more important things to tweet about like what u r having for lunch.
+[173907525832421377] @jitterted (Sun Feb 26 15:09:19 PST 2012): I just reviewed: 'In Her Name (Omnibus Edition)' by Michael R. Hicks via @amazon http://t.co/KxlQjWE7 /cc @KreelanWarrior
+  http://t.co/KxlQjWE7 --> http://www.amazon.com/review/R1KXVXMT3P1CQZ/ref=cm_sw_r_tw_asr_ZhfGD.1ATGBHS --> http://www.amazon.com/review/R1KXVXMT3P1CQZ
+[173888871988346881] @jitterted (Sun Feb 26 13:55:12 PST 2012): @marick Do you have a time-frame in mind?
+--> Is in reply to: @marick, replying to status: 173886872509104130 - @jitterted Yes, especially the latter.
+[173883955110625282] @jitterted (Sun Feb 26 13:35:40 PST 2012): Been procrastinating submitting to @AgileTD -- my WIP Limit Alarm has been going off for weeks. Time to start saying no to myself.
+[173881274916806656] @jitterted (Sun Feb 26 13:25:01 PST 2012): @marick Would a book in the "Clean Code" and "Growing OO SW Guided By Test" area be of interest?
+--> Is in reply to: @marick, replying to status: 173556439514759170 - May be starting up a book-draft reading group (of sort that produced value for /Design Patterns/ and /Refactoring/): want yours reviewed?
+[173876623194595328] @jitterted (Sun Feb 26 13:06:32 PST 2012): RT @newsycombinator: If you want reproducible science, the software needs to be open source http://t.co/qjrfFxf6
+  http://t.co/qjrfFxf6 --> http://j.mp/xovOVq --> http://arstechnica.com/science/news/2012/02/science-code-should-be-open-source-according-to-editorial.ars
+[173871246977667073] @jitterted (Sun Feb 26 12:45:10 PST 2012): @arialdomartini Was actually replying to Apache 2.4, but yeah, applies to phone OS as well. Haven't done enuf iOS to give opinion on arch.
+--> Is in reply to: @arialdomartini, replying to status: 173870847424069632 - @jitterted Sure. I was just wondering: since I never studied iPhone's architecture if it's "weird" or "amazing" or just "ordinary".
+[173870856605417473] @jitterted (Sun Feb 26 12:43:37 PST 2012): Wish I could import multiple maps (tracks) into @RunKeeper instead of one at a time.
+[173870317872234497] @jitterted (Sun Feb 26 12:41:28 PST 2012): @arialdomartini Love seeing competition in products...usually brings out the best in both.
+--> Is in reply to: @arialdomartini, replying to status: 173869956004454400 - #Apache 2.4 released as a "direct aim at #nginx” http://t.co/wQMXWd4b
+[173862554702053377] @jitterted (Sun Feb 26 12:10:37 PST 2012): @catswetel just did. lol.
+--> Is in reply to: @CatSwetel, replying to status: 173675874917425152 - @jitterted have you seen jenna marbles dressed as nyan cat?
+[173861593199804416] @jitterted (Sun Feb 26 12:06:48 PST 2012): @kawaguti Thanks for getting it done, I enjoyed it.
+--> Is in reply to: @kawaguti, replying to status: 173729022440771584 - @jboogie @jitterted Yes, I did ustream with kindly supported conference staffs! Good Job!
+[173858180793774080] @jitterted (Sun Feb 26 11:53:15 PST 2012): RT @_frank_dandrea: Help spread the #AgileSucks message - vote for my #SFAgile2012 preso here: http://t.co/3pTs0MIM #Agile #Schmagile
+  http://t.co/3pTs0MIM --> http://bit.ly/As0JwU --> http://sfagilecon2012.ideascale.com/a/dtd/Agile-Sucks-But-you-should-use-it-anyway./93799-17748
+[173831746670964736] @jitterted (Sun Feb 26 10:08:12 PST 2012): RT @eegrove: 3 days left to comment/vote on my User Requirements with LEGO proposal for #SFAgile2012 http://t.co/aBKZ1oPg -  pls take a  ...
+  http://t.co/aBKZ1oPg --> http://bit.ly/wQnNes --> http://sfagilecon2012.ideascale.com/a/dtd/Think-with-your-hands!-Using-Lego-to-capture-user-requirements/93928-17748
+[173664494369779712] @jitterted (Sat Feb 25 23:03:36 PST 2012): Can't believe I just searched for the guitar tab for Nyan Cat. Also can't believe I'm almost a year behind on that meme.
+[173659088520085504] @jitterted (Sat Feb 25 22:42:07 PST 2012): RT @MattBloomFilms: If anyone's feeling hungover or blue today, I promise this photo of a bunch of bananas will cheer you up.... http:// ...
+[173653742682505216] @jitterted (Sat Feb 25 22:20:53 PST 2012): Early-bird tickets to #SFAgile2012 are on sale NOW! Save up to $200!! No extra charge for exclamation points!!! http://t.co/9MkCAsn2
+  http://t.co/9MkCAsn2 --> http://ow.ly/95BTi --> http://sfagilecon2012.eventbrite.com/
+[173610880846659584] @jitterted (Sat Feb 25 19:30:34 PST 2012): @jboogie Not sure who to thank for Ustream.tv of #agileuxnyc, but it was great to be able to follow from afar!
+--> Is in reply to: @jboogie [Error in Reply To Status ID = -1]
+[173610532367114240] @jitterted (Sat Feb 25 19:29:11 PST 2012): @kreelanwarrior FYI, Scrivener is now available on Windows, but your link page says only Mac. Time to update? :-)
+--> Is in reply to: @KreelanWarrior, replying to status: 173608603947769858 - Do you have a web site? Let's exchange links! http://t.co/3yI65lBJ
+[173610035501473794] @jitterted (Sat Feb 25 19:27:12 PST 2012): RT @jboogie: My slides for today's "Demystifying Design" talk at #agileuxnyc http://t.co/bEkwAWEj #ux #agile #leanux
+  http://t.co/bEkwAWEj --> http://bit.ly/x7bRR1 --> http://speakerdeck.com/u/jgothelf/p/demystifying-design-fewer-secrets-bigger-impacts-agile-ux-nyc-2012
+[173602686040674304] @jitterted (Sat Feb 25 18:58:00 PST 2012): Wow. I'm pretty surprised and offended by http://t.co/7OmmUWko: a question it asked: "How hot are your co-workers". Seriously???
+  http://t.co/7OmmUWko --> http://TheFIT.com
+[173571471157903362] @jitterted (Sat Feb 25 16:53:58 PST 2012): @michaelbolton I believe having more devs with testing literacy will raise the bar on testers. Cuz right now devs can't tell the difference.
+--> Is in reply to: @michaelbolton, replying to status: 173570766066024450 - @jitterted My hope is that testing literacy will be required for *testers*.
+[173561722269999105] @jitterted (Sat Feb 25 16:15:13 PST 2012): RT @jchyip: What If Star Wars Ep 1 Was Actually Good? | The Sci Fi Show http://t.co/6Ryplq5S
+  http://t.co/6Ryplq5S --> http://www.thescifishow.com/2012/02/sf-add/what-if-star-wars-ep-1-was-actually-good/
+[173554875190349824] @jitterted (Sat Feb 25 15:48:01 PST 2012): @jasonlittle @can_test On a completely separate note, proposals for #SFAgile2012 are still being accepted: http://t.co/xuiosLO5
+--> Is in reply to: @jasonlittle, replying to status: 173554016847015936 - @can_test I guess not, I had a couple updates I wanted to make too
+  http://t.co/xuiosLO5 --> http://sfagilecon.org/speakers
+[173554712484921345] @jitterted (Sat Feb 25 15:47:22 PST 2012): @jasonlittle @can_test That's what the Feb. 19 deadline was all about -- you can make comments/discuss, but can't change content.
+--> Is in reply to: @jasonlittle, replying to status: 173554016847015936 - @can_test I guess not, I had a couple updates I wanted to make too
+[173553903118458880] @jitterted (Sat Feb 25 15:44:09 PST 2012): Wave 2 for #SFAgile2012 proposals close soon (Feb. 29): see http://t.co/xuiosLO5 for info on the Waves. (plz RT)
+  http://t.co/xuiosLO5 --> http://sfagilecon.org/speakers
+[173545672694439937] @jitterted (Sat Feb 25 15:11:27 PST 2012): @alshalloway in this case by "show your work" I meant show the intermediate stages, e.g., how did you come up with that UI?
+--> Is in reply to: @alshalloway, replying to status: 173530069145370626 - @jitterted +1 & your team should include your management ;) (which i think you mean)
+[173529748897673217] @jitterted (Sat Feb 25 14:08:10 PST 2012): Just like in school, show your work to your team, don't just show them the finished product. #agileuxnyc Involve them in the creation.
+[173509128063430657] @jitterted (Sat Feb 25 12:46:14 PST 2012): @andreachiou yes, I doubt it's more than 2 or 3.
+--> Is in reply to: @andreachiou, replying to status: 173507394574364672 - @jitterted But sadly - few schools engage students in this way.
+[173509049533476865] @jitterted (Sat Feb 25 12:45:55 PST 2012): @benji5582 I encourage you to read some books about what agile is, because it sounds like you're repeating myths.
+--> Is in reply to: @benji5582, replying to status: 173508525320978432 - @jitterted agile is without documentation so how can one maintain the system?
+[173508895359238144] @jitterted (Sat Feb 25 12:45:18 PST 2012): @andreachiou Ah, well, that's diff. If it's a real project with real testers, writers, PMs, etc., then that's awesome.
+--> Is in reply to: @andreachiou, replying to status: 173507164005076993 - @jitterted No - I think Don Gause described to me back when I went to an IEEE Reqm'ts Eng. conf that he guided real projects in his capstone
+[173506436217843712] @jitterted (Sat Feb 25 12:35:32 PST 2012): @adamyuret wait, that's _not_ true?
+--> Is in reply to: @AdamYuret, replying to status: 173505897195257856 - @effdot @jboogie Once had a dev tell me he was more qualified than users to design UX bc he had more exp using computers than they do. :-)
+[173506244013850628] @jitterted (Sat Feb 25 12:34:46 PST 2012): @andreachiou More important is getting devs to truly collaborate w/rest of team: testers, doc, etc.
+--> Is in reply to: @andreachiou, replying to status: 173504258367438848 - @jitterted I don't think team building type capstone courses are generally offered to engineering and CS students. Don Gause at SUNY does...
+[173506149214195712] @jitterted (Sat Feb 25 12:34:24 PST 2012): @andreachiou I don't believe that team-building capstone courses would help, because that's just getting devs to collaborate w/each other
+--> Is in reply to: @andreachiou, replying to status: 173504258367438848 - @jitterted I don't think team building type capstone courses are generally offered to engineering and CS students. Don Gause at SUNY does...
+[173505884134182913] @jitterted (Sat Feb 25 12:33:21 PST 2012): @benji5582 Chaos is for lazy people...Agile is highly disciplined, if done right.
+--> Is in reply to: @benji5582, replying to status: 173504502048100352 - @jitterted so in effect u saying agile is not simple if u do it right. K, but others claim that agile is for lazy people...
+[173504228042616832] @jitterted (Sat Feb 25 12:26:46 PST 2012): @tottinge Sound on Sound is a good resource. But it's hard to read about sound mixing.
+--> Is in reply to: @tottinge, replying to status: 173502805267595264 - @jitterted this is yet another of then. It's in a sound catalog, but it is amazing to me. I spend time and money to keep it under control.
+[173503512922177536] @jitterted (Sat Feb 25 12:23:55 PST 2012): @benji5582 Just because it's hard, doesn't mean we shouldn't do it, no? Agile is hard, if you do it right. If it's not, ur prob not Agile
+--> Is in reply to: @benji5582, replying to status: 173502929762910209 - @jitterted my point is, if simplicity is hard as you rightly said, why shuold it be a cardinal principle. Has the agile methodolgy a future?
+[173501614655676416] @jitterted (Sat Feb 25 12:16:23 PST 2012): @dhemery We've got rolling deadlines -- this wave closes Feb. 29, but Wave 3 is open until end of March.
+--> Is in reply to: @dhemery, replying to status: 173500987892449280 - @jitterted Depends when the deadline is. I have no bandwidth for anything new until at least Thursday, possibly later. @agilemeister
+[173500489462333440] @jitterted (Sat Feb 25 12:11:54 PST 2012): @tottinge Maybe because it's usually true? Where are you looking, there are good articles out there (tho I prefer video instruction)
+--> Is in reply to: @tottinge, replying to status: 173499085003829250 - Frustrated that so many articles on sound mixing assume an overloud guitar and uncooperative guitarists.
+[173500029699497984] @jitterted (Sat Feb 25 12:10:05 PST 2012): @dhemery Cool! Would you submit a proposal to http://t.co/6xfl8GCn ? :-) /cc @agilemeister #SFAgile2012
+--> Is in reply to: @dhemery, replying to status: 173497280404520961 - @jitterted I'll bet we could frame the question in a way that lends itself to helpful answers (or at least possibilities). @agilemeister
+  http://t.co/6xfl8GCn --> http://sfagile2012.ideascale.com
+[173499646948286464] @jitterted (Sat Feb 25 12:08:33 PST 2012): Love her slides! RT @endashes: @b9punk has the uxiest designed slides at #AgileUXNYC
+[173498856296808448] @jitterted (Sat Feb 25 12:05:25 PST 2012): @benji5582 Isn't it already? Simplicity is hard, though.
+--> Is in reply to: @benji5582, replying to status: 173498302824841216 - @jitterted Should simplicity be part of the cardinal principles of system development? #agilemethodolgy
+[173498345032138752] @jitterted (Sat Feb 25 12:03:23 PST 2012): @davidwlocke oh, that was just my #Faking corollary...having devs who want to learn domain is only way agile can work. /cc @qualityfrog
+--> Is in reply to: @DavidWLocke, replying to status: 173496212962541568 - @jitterted @qualityfrog OK, so why does agile dev work, if it works? The hype is that agile devs do learn the user's domain.
+[173497958703185920] @jitterted (Sat Feb 25 12:01:51 PST 2012): @testobsessed It's a perspective thing -- seems to me part of good testing is being able to take a different perspective.
+--> Is in reply to: @testobsessed, replying to status: 173496489719508993 - @jitterted tdd != testing. They're not even related. I know; I do both. Have to wear totally diff hats. Cc @dhemery
+[173497820639268865] @jitterted (Sat Feb 25 12:01:18 PST 2012): @testobsessed I disagree...I've seen devs get really stuck in TDD because they're thinking like devs and not like users of the code.
+--> Is in reply to: @testobsessed, replying to status: 173496489719508993 - @jitterted tdd != testing. They're not even related. I know; I do both. Have to wear totally diff hats. Cc @dhemery
+[173495912470032385] @jitterted (Sat Feb 25 11:53:43 PST 2012): Hey, look at that, even designers are learning how and why to test! #agileuxNYC Is there hope for devs?
+[173495739761168384] @jitterted (Sat Feb 25 11:53:02 PST 2012): @agilemeister I dunno, too many questions, no answers, may not make for a satisfying #SFAgile2012 panel? /cc @dhemery
+--> Is in reply to: @agilemeister, replying to status: 173495235085737986 - @jitterted seems like u and @dhemery have a possible #SFAgile2012 panel in the making?  :-P
+[173495601449795584] @jitterted (Sat Feb 25 11:52:29 PST 2012): @dhemery Alas, that's true. I've been thinking a lot about how to change that attitude. Constant exposure seems a way that might work.
+--> Is in reply to: @dhemery, replying to status: 173495279742492673 - @jitterted I'd guess that testing literacy would be enormously valuable to developers. Alas, many developers seem not to agree.
+[173495292145049600] @jitterted (Sat Feb 25 11:51:15 PST 2012): @dhemery Agreed. I wonder if this is exacerbated in "engineering-driven" cultures?
+--> Is in reply to: @dhemery, replying to status: 173494617369608192 - @jitterted The idea seems to be: Developers make the stuff that makes us money. Everybody else is merely support.
+[173494887545708545] @jitterted (Sat Feb 25 11:49:39 PST 2012): @dhemery I wonder if they're related? More precisely, would testing literacy help devs be better devs? Isn't that TDD to a certain extent?
+--> Is in reply to: @dhemery, replying to status: 173494068930822144 - @jitterted I'd settle for developers having development literacy.
+[173494167895420928] @jitterted (Sat Feb 25 11:46:47 PST 2012): Where is dev responsibility to do the same with testers, designers, etc.?
+[173494085003386880] @jitterted (Sat Feb 25 11:46:27 PST 2012): I find it interesting (not surprising, just interesting) that it's up to non-developers to engage w/developers to make a better team.
+[173493824201568257] @jitterted (Sat Feb 25 11:45:25 PST 2012): My hope is that testing literacy will be required by developers...someday.
+[173493683486867457] @jitterted (Sat Feb 25 11:44:52 PST 2012): RT @A_Silvers: I agree with @jonathanpberger--in a few years, code literacy will be required for designers. #agileuxnyc
+[173493562640572416] @jitterted (Sat Feb 25 11:44:23 PST 2012): RT @tamiiiiiiiiiiii: Awesome talk on the importance of code literacy and designer sustainability from @jonathanpberger #agileuxnyc http: ...
+[173493389558423552] @jitterted (Sat Feb 25 11:43:42 PST 2012): Interesting...current talk at #agileuxnyc could be directed at devs, i.e., devs helping out testers.
+[173491394642575360] @jitterted (Sat Feb 25 11:35:46 PST 2012): @qualityfrog Corollary: agile development doesn't work because it requires coders who are willing to learn about the domain.
+--> Is in reply to: @QualityFrog, replying to status: 173490103019249664 - Exploratory #testing is bad because it requires tester "who is willing to learn about the product".  #Faking #Testing #ProTip #JustReadThis
+[173489311260487680] @jitterted (Sat Feb 25 11:27:29 PST 2012): @qualityfrog I thought testers can't start testing until the docs are complete? Otherwise, how would they know how it's supposed to work?
+--> Is in reply to: @QualityFrog, replying to status: 173488364274716672 - Exploratory #testing is bad because bugs found can't be reproduced due to there being no documentation. #Faking #ProTip #JustReadThis
+[173487013549441025] @jitterted (Sat Feb 25 11:18:21 PST 2012): I collect spam tweets like entomologists collect insects, as fascinating little things to be studied and dissected.
+[173483492812926976] @jitterted (Sat Feb 25 11:04:22 PST 2012): @lassekoskela The lesson I'm learning is figuring out who to bribe to get in on tix for next year -- they sold out too quickly this year!
+--> Is in reply to: @lassekoskela, replying to status: 173364211659964416 - @jitterted @jsconf They're trying to teach you a lesson for next year!
+[173478441730056192] @jitterted (Sat Feb 25 10:44:18 PST 2012): @troytuttle @jgoodsen Focus on Scrum or Kanban without focus on XP (eng) means you end up unbalanced, which is where I see mindsets today.
+--> Is in reply to: @troytuttle, replying to status: 173456812673208322 - @jitterted @jgoodsen The best coding practices won't matter when they are crushed by dysfunctional project scope and schedule governance.
+[173478025013366784] @jitterted (Sat Feb 25 10:42:38 PST 2012): @troytuttle @jgoodsen True, there has to be a minimum level of proj mgmt sanity, but I'm seeing too much focus on PM, and not enuf on eng.
+--> Is in reply to: @troytuttle, replying to status: 173456812673208322 - @jitterted @jgoodsen The best coding practices won't matter when they are crushed by dysfunctional project scope and schedule governance.
+[173477602114285568] @jitterted (Sat Feb 25 10:40:58 PST 2012): RT @SFAgile2012: What do SteveBlank (@sgblank), @JoshuaKerievsky and Jim Mccarthy have in common? Discover at http://t.co/mkYnqqRN #sfag ...
+  http://t.co/mkYnqqRN --> http://bit.ly/AsUAmN
+[173283887261294592] @jitterted (Fri Feb 24 21:51:12 PST 2012): RT @KreelanWarrior: Why am I giving away a #novel (5-stars, BTW) #free? Simple: I want you to try it! http://t.co/SIQW9O3e #ebook #RT
+  http://t.co/SIQW9O3e --> http://bit.ly/q24Lx2 --> http://authormichaelhicks.com/free-novel/
+[173280010352861184] @jitterted (Fri Feb 24 21:35:48 PST 2012): @hotgazpacho I feel so much better now, thanks.
+--> Is in reply to: @hotgazpacho, replying to status: 173279352698580992 - @jitterted you mean where they store the spent nuclear fuel (which they keep track of in Excel)?
+[173277509100642304] @jitterted (Fri Feb 24 21:25:52 PST 2012): @hotgazpacho Thanks for the nightmares. I think I'll go hide in a cave.
+--> Is in reply to: @hotgazpacho, replying to status: 173276962511519745 - @jitterted I worked once on an auditing software suite whose data  layer was generated from several Excel workbooks.
+[173275434958598145] @jitterted (Fri Feb 24 21:17:37 PST 2012): @hotgazpacho I'm just imagining that their "back end" system is a bunch of Excel VBA macros running on some guy's machine.
+--> Is in reply to: @hotgazpacho, replying to status: 173275051620184064 - @jitterted in China it is ;-)
+[173274466049208320] @jitterted (Fri Feb 24 21:13:46 PST 2012): @tottinge I still do CRC and teach it. Reinforces good OO design.
+--> Is in reply to: @tottinge, replying to status: 173147451061055489 - Do people still do CRC (oo design)? I've not heard people talk about it for a long time.
+[173273848450523136] @jitterted (Fri Feb 24 21:11:19 PST 2012): OMG, Lenovo customer service wants me to validate an XLS file containing info about my new laptop and email them with any fixes. Is it 1995?
+[173269349010898944] @jitterted (Fri Feb 24 20:53:26 PST 2012): @jgoodsen This is why I've stopped focusing on the project mgmt aspects of agile and back on the XP/engineering. Can't be agile w/crap code.
+--> Is in reply to: @jgoodsen, replying to status: 173268142640988160 - of the many paths to lean software, most are littered with scrum and shitty code.
+[173264950305886209] @jitterted (Fri Feb 24 20:35:57 PST 2012): What I don't understand is why @jsconf is tweeting about their keynote speakers when the tickets are sold out? That's just mean. :-(
+[173263448069779457] @jitterted (Fri Feb 24 20:29:59 PST 2012): RT @jgoodsen: Its doesn't matter how you scrum if you still write shitty code.
+[173262779858419713] @jitterted (Fri Feb 24 20:27:20 PST 2012): RT @SFAgile2012: Early bird gets the worm: Save up to $200! for the full #SFAgile2012 conference (June 4-6) pricing details: http://t.co ...
+  http://t.co
+[173259748597170176] @jitterted (Fri Feb 24 20:15:17 PST 2012): @cyetain Oh, good idea...I'll have to go read about that. Wait a minute---!
+--> Is in reply to: @cyetain, replying to status: 173218990183821312 - @jitterted time to start doing some statistical analysis to figure out what you think you should be reading :-P
+[173215585944084481] @jitterted (Fri Feb 24 17:19:48 PST 2012): oh wait, I forgot...merely by putting it on my read it later list, it's read. I don't need to go and actually read it.
+[173215436475863041] @jitterted (Fri Feb 24 17:19:12 PST 2012): Yay! I've hit 450 items on my "read it later" list. Forget inbox zero, I need read-it-later zero.
+[173214782269296643] @jitterted (Fri Feb 24 17:16:36 PST 2012): @gdinwiddie No grue in sight yet, but I have a headache that might kill me.
+--> Is in reply to: @gdinwiddie, replying to status: 173213112705622016 - @jitterted If you go any further, you're likely to be eaten by a grue.
+[173207374792884224] @jitterted (Fri Feb 24 16:47:10 PST 2012): I'm in a maze of twisty little dependencies, all alike. #HardToTest
+[173206671986921472] @jitterted (Fri Feb 24 16:44:23 PST 2012): RT @chadcthomas: Finally finished #management30 by @jurgenappelo. I *strongly* suggest this book regardless of whether you are #Agile or not
+[173205711063486464] @jitterted (Fri Feb 24 16:40:34 PST 2012): RT @justinwolfers: Romney's test for govt programs:
+"Is this so critical that it’s worth borrowing money from China?"
+How's the China bi ...
+[173186660987707393] @jitterted (Fri Feb 24 15:24:52 PST 2012): @qualityfrog OMG, I've totally seen that happen. AUGH!
+--> Is in reply to: @QualityFrog, replying to status: 173183595861639168 - Stop all testing if a smoke test fails. Your valuable time is best spent waiting on a new build. #Faking #Testing #ProTip #IJustReadThat
+[173186419571949568] @jitterted (Fri Feb 24 15:23:54 PST 2012): @andreakuszewski I would also like to see teachers & other school staff trained. sigh.
+--> Is in reply to: @AndreaKuszewski, replying to status: 173185334903971841 - @jitterted Yes, I built my early career on this notion. I was being sarcastic. :)
+[173186138532618241] @jitterted (Fri Feb 24 15:22:47 PST 2012): @andreakuszewski Ah. ok. :)  I'm personally waiting for my training to begin (my 7-yr old son  is on the spectrum).
+--> Is in reply to: @AndreaKuszewski, replying to status: 173185334903971841 - @jitterted Yes, I built my early career on this notion. I was being sarcastic. :)
+[173185764589436928] @jitterted (Fri Feb 24 15:21:18 PST 2012): BFF - nulls and ifs are BFF. Discuss. http://t.co/f1oPRmhz
+  http://t.co/f1oPRmhz --> http://tmblr.co/ZOyW7wGzbr3N --> http://www.tumblr.com/ZOyW7wGzbr3N --> http://tedmyoung.tumblr.com/post/18213195991/bff
+[173185075112976384] @jitterted (Fri Feb 24 15:18:34 PST 2012): @andreakuszewski Why r u surprised? Train the parents to know how to train kids.
+--> Is in reply to: @AndreaKuszewski, replying to status: 173184250496036865 - YOU ARE KIDDING ME. RT @sciencecodex: Training parents is good medicine for children with autism behavior problems http://t.co/YGryE2DE
+[173182918187945985] @jitterted (Fri Feb 24 15:09:59 PST 2012): nulls and ifs, BFF.
+[173174077253619713] @jitterted (Fri Feb 24 14:34:52 PST 2012): @lanettecream Upgrading to Office 365? That's an _upgrade_? :-(
+--> Is in reply to: @lanettecream, replying to status: 173173253991444482 - So frustrated. We are upgrading to Office 365 and all of our Mac users are angry, upset, and hostile. Directions we got are all wrong.
+[173172499398397952] @jitterted (Fri Feb 24 14:28:35 PST 2012): @ilarihenrik http://t.co/joTtL57l is a good resource. Perhaps font-family: Cambria, Georgia, serif;
+--> Is in reply to: @ilarihenrik, replying to status: 173171746252406784 - @jitterted It would be a beautifully balanced serif font, if I can choose. (Don't like Times New Roman)
+  http://t.co/joTtL57l --> http://www.awayback.com/revised-font-stack/
+[173170208930938881] @jitterted (Fri Feb 24 14:19:29 PST 2012): @tomdale oh dear. Say goodbye to any semblance of productivity in the future. They're addic-- oh look, my buckyballs!
+--> Is in reply to: @tomdale, replying to status: 173169832714448897 - Buckyballs acquired. http://t.co/jNfncfaY
+[173169965447389184] @jitterted (Fri Feb 24 14:18:31 PST 2012): @ilarihenrik Yeah, who would've thought, though? I can recommend some good font-stacks, btw.
+--> Is in reply to: @ilarihenrik, replying to status: 173168242079186944 - I should shoot myself in the knee for not having tested it on PC. #embarrassed
+[173169468317507585] @jitterted (Fri Feb 24 14:16:33 PST 2012): @lisacrispin I love finding those! Hate looking for them, but love finding them. ;-)
+--> Is in reply to: @lisacrispin, replying to status: 173168522787168256 - we finally dug down into the reason for an error in the app  - looks like one of those 'cut the ends off the pot roast' things
+[173162571958984704] @jitterted (Fri Feb 24 13:49:09 PST 2012): RT @mspayd: Last chance to register for The Coaching Stance:Upshifting Your Agile Coaching with @Darstcoach and me in Boulder http://t.c ...
+[173156092606550016] @jitterted (Fri Feb 24 13:23:24 PST 2012): Early bird gets the worm: Save up to $200! for the full #SFAgile2012 conference (June 4-6) pricing details: http://t.co/wcNwUnKO
+  http://t.co/wcNwUnKO --> http://bit.ly/yxGNRH --> http://sfagilecon2012.eventbrite.com/
+[173148954207334402] @jitterted (Fri Feb 24 12:55:02 PST 2012): RT @sfagile2012: Crowd-sourced content, awesome keynotes, games day, & open-space. You will be delighted. #sfagile2012. http://t.co/OMUXEpsI
+  http://t.co/OMUXEpsI --> http://bit.ly/AsUAmN
+[167722904811872256] @jitterted (Thu Feb 09 13:33:51 PST 2012): Tutorial writers: if u say "if your machine doesn't support X, then config X now", tell readers how to check if X is already supported.
+[167722149254152192] @jitterted (Thu Feb 09 13:30:51 PST 2012): @vydra Yah, was going to create a new page for running truly distributed nodes.
+--> Is in reply to: @vydra, replying to status: 167721707384213504 - @jitterted will try to remedy that on http://t.co/ZycovTBE Counting on your help :)
+[167721476601020417] @jitterted (Thu Feb 09 13:28:10 PST 2012): @vydra Yah, I figured out that I needed to change the VM network configs from NAT to Bridged.
+--> Is in reply to: @vydra, replying to status: 167720954083028993 - @jitterted I made my VMs get IP from Router DHCP server, not NAT
+[167709716963799041] @jitterted (Thu Feb 09 12:41:27 PST 2012): @bitops That's a valid fear because of the viral nature of GPL'd code. But that's managed by communication and tools, not lockdown.
+--> Is in reply to: @bitops, replying to status: 167708477135912960 - @jitterted yeah, that is pretty draconian. I have heard of higher-ups being scared of someone putting GPL'd code into the product.
+[167708721126981632] @jitterted (Thu Feb 09 12:37:29 PST 2012): @renegard2 It's a matter of control. Control != Responsibility.
+--> Is in reply to: @renegard2, replying to status: 167707246401306624 - @jitterted That's common practice here at germany's science institutions. It's a matter of responsibility.
+[167696108091490304] @jitterted (Thu Feb 09 11:47:22 PST 2012): Drat. Can't get a VM on machine A to ping the VM on machine B. #DontUnderstandNetworksSometimes
+[167695319038050304] @jitterted (Thu Feb 09 11:44:14 PST 2012): Sad and tragic. :-( RT @ckeithray: Budget cuts reduce state funding for public libraries to zero in CA. http://t.co/evIXttTm
+  http://t.co/evIXttTm --> http://tinyurl.com/7jpfmtn
+[167695082135367681] @jitterted (Thu Feb 09 11:43:17 PST 2012): @grossberg Explains a lot about the mediocrity of devs at such companies. Good devs wouldn't suffer such restrictions.
+--> Is in reply to: @grossberg, replying to status: 167693939174932480 - @jitterted It's actually not that uncommon, unfortunately -- esp. at large companies. :/
+[167694777079439360] @jitterted (Thu Feb 09 11:42:05 PST 2012): @grossberg in that environment, my first task would to install a VM and totally work inside it.
+--> Is in reply to: @grossberg, replying to status: 167693939174932480 - @jitterted It's actually not that uncommon, unfortunately -- esp. at large companies. :/
+[167694440226496513] @jitterted (Thu Feb 09 11:40:44 PST 2012): RT @daverooneyca: Just submitted my proposal for #SFAgile2012 - "Sh*t My Agile Coach Says" http://t.co/AV9cNJrn
+  http://t.co/AV9cNJrn --> http://bit.ly/zpGjYC --> http://sfagilecon2012.ideascale.com/a/dtd/Sh*t-My-Agile-Coach-Says/93056-17748
+[167694263465951233] @jitterted (Thu Feb 09 11:40:02 PST 2012): @bitops lol. No. I have enough identities as it is...
+--> Is in reply to: @bitops, replying to status: 167693681829220352 - @jitterted not crouchingscalahiddenclojure or jvmsamurai ? :)
+[167694201281196032] @jitterted (Thu Feb 09 11:39:47 PST 2012): @bitops sure, if you're talking about dev services, but the machines that are running your IDE? wth?
+--> Is in reply to: @bitops, replying to status: 167693492099887105 - @jitterted agree that it's a bad thing. OTOH could be valuable exposure for running in a PaaS environment where you have little control?
+[167694015859396608] @jitterted (Thu Feb 09 11:39:03 PST 2012): When writing your proposal for #SFAgile2012, be sure to indicate the number of cat pics you'll be showing. http://t.co/xuiosLO5
+  http://t.co/xuiosLO5 --> http://sfagilecon.org/speakers
+[167693010816077824] @jitterted (Thu Feb 09 11:35:04 PST 2012): @bitops No, the startlingly boring tedyoung.
+--> Is in reply to: @bitops, replying to status: 167692783094726656 - @jitterted what's your github handle? jitterted?
+[167689539270356992] @jitterted (Thu Feb 09 11:21:16 PST 2012): I just heard of a company that's taking away admin rights for developer's machines. Nice way to respect your devs. #fail
+[167687939944497152] @jitterted (Thu Feb 09 11:14:55 PST 2012): @catswetel It's always easier to give advice than follow it. You're in good company.
+--> Is in reply to: @CatSwetel, replying to status: 167687450787971072 - just finished telling a friend to take zinc w/ a full meal. i ate bowl of coleslaw, took vitamins. now feel totally gross. i'm a dummy.
+[167685516056215552] @jitterted (Thu Feb 09 11:05:17 PST 2012): Are you doing #UX in an Agile/Lean setting? Tell us about it! http://t.co/xuiosLO5 #SFAgile2012
+  http://t.co/xuiosLO5 --> http://sfagilecon.org/speakers
+[167685195502325763] @jitterted (Thu Feb 09 11:04:00 PST 2012): @lukehohmann btw, would love to see something interactive for #SFAgile2012
+--> Is in reply to: @lukehohmann, replying to status: 167026129062998017 - @jitterted When is the conf? Assume you want a #innovgames submission.
+[167684800872849408] @jitterted (Thu Feb 09 11:02:26 PST 2012): Have something #Agile or #Lean to share? We'll help you write it, just get your idea in to http://t.co/xuiosLO5 #SFAgile2012
+  http://t.co/xuiosLO5 --> http://sfagilecon.org/speakers
+[167682319707144192] @jitterted (Thu Feb 09 10:52:35 PST 2012): It's not a tutorial if you're just listing a series of steps to follow. That's a script. Not helpful for learning.
+[167660910117269504] @jitterted (Thu Feb 09 09:27:30 PST 2012): Tell @walmart not to stock toxic #gmo corn by @MonsantoCo. http://t.co/eqcRohfQ via @sum_of_us
+  http://t.co/eqcRohfQ --> http://bit.ly/wPEfzu --> http://sumofus.org/share/walmart-monsanto/?sub=tw --> http://sumofus.org/campaigns/walmart-monsanto/?sub=tw
+[167659787054620674] @jitterted (Thu Feb 09 09:23:02 PST 2012): @petershankman I'm laughing at the people who said $300 was too expensive for AAPL. :-D
+--> Is in reply to: @petershankman, replying to status: 167659517381840897 - Dear my AAPL stock: I You can do anything to me. Tie me up, whip me, anything. I'll take it. I love you that much.
+[167659640090411010] @jitterted (Thu Feb 09 09:22:27 PST 2012): Just saw the word "adorkable" used. Love it.
+[167658211753738240] @jitterted (Thu Feb 09 09:16:47 PST 2012): @jurgenappelo I don't have your email address, but I'm interested. tedyoung at http://t.co/F91JgX2J
+--> Is in reply to: @jurgenappelo [Error in Reply To Status ID = -1]
+  http://t.co/F91JgX2J --> http://gmail.com --> http://mail.google.com/mail/
+[167656024201887744] @jitterted (Thu Feb 09 09:08:05 PST 2012): RT @cyetain: Practices emerge from Principles. Practices ENABLE new Capabilities.
+[167655812016246784] @jitterted (Thu Feb 09 09:07:15 PST 2012): @dhemery You should get a second opinion. Here's one: you are unique and remarkable.
+--> Is in reply to: @dhemery, replying to status: 167653238286454785 - Patient: Emery, Dale
+Lab Results: Appears unremarkable.
+
+I can't get no respect.
+[167652261651156992] @jitterted (Thu Feb 09 08:53:08 PST 2012): Have you made plans for San Francisco Agile 2012? http://t.co/tt6UvDOS via @plancast
+  http://t.co/tt6UvDOS --> http://planca.st/1THG --> http://plancast.com/p/9rtv?awesm=planca.st_1THG&utm_campaign=1672714&utm_medium=planca.st-twitter&utm_source=direct-planca.st&utm_content=plancast-manual-share
+[167648220267286529] @jitterted (Thu Feb 09 08:37:05 PST 2012): @bendre That's a bug in Tweetdeck, it sounds like. :-)
+--> Is in reply to: @Bendre, replying to status: 167616988028481537 - @jitterted the last ')' is part of URL, causing the problem for me.
+[167499474078404608] @jitterted (Wed Feb 08 22:46:01 PST 2012): @adamyuret Don't forget, we'll help you write it, just get your idea in there to http://t.co/xuiosLO5 #SFAgile2012
+--> Is in reply to: @AdamYuret, replying to status: 167487656257794048 - After today's session at #AONW I think I'll be working on my agile sailing metaphor  to submit to #SFAgile2012. :-) MayB start writing it up
+  http://t.co/xuiosLO5 --> http://sfagilecon.org/speakers
+[167498839140483072] @jitterted (Wed Feb 08 22:43:29 PST 2012): @bendre r u sure? worked fine on my home computer as well as at work?
+--> Is in reply to: @Bendre, replying to status: 167422630373244928 - @jitterted that link doesn't work Ted.
+[167417448595857408] @jitterted (Wed Feb 08 17:20:04 PST 2012): OK, that's cool: using Synergy to control two computers, each running 2 VMware Players. Whee!
+[167415629077426178] @jitterted (Wed Feb 08 17:12:51 PST 2012): Thinking of submitting a conference proposal: "Creating Awesome Proposal Submission Titles". (Don't get the joke? See http://t.co/OE3R3zVk)
+  http://t.co/OE3R3zVk --> http://ow.ly/8XxSB --> http://sfagilecon.org/walkthrough
+[167409474674491393] @jitterted (Wed Feb 08 16:48:23 PST 2012): Our new crowd-sourced #SFAgile2012 Proposal Submission system is Fully Operational: http://t.co/xuiosLO5
+  http://t.co/xuiosLO5 --> http://sfagilecon.org/speakers
+[167376015948136450] @jitterted (Wed Feb 08 14:35:26 PST 2012): OK, time to push my current hadoop experiment to github for all the world to see (and laugh).
+[167375714373484544] @jitterted (Wed Feb 08 14:34:14 PST 2012): @jmeowmeow Good idea. Too bad one of the problematic docs is on an "immutable" wiki page. WTH is that? That's so anti-wiki.
+--> Is in reply to: @jmeowmeow, replying to status: 167372441553874948 - @jitterted ;) Fork their docs and file a pull request.  (And thanks for the reminder -- I still need to order memory for the iMac).
+[167368148029411329] @jitterted (Wed Feb 08 14:04:10 PST 2012): Interesting...'absconded' is only used once in the 3 Dickens books I'm hadooping.
+[167366846885003265] @jitterted (Wed Feb 08 13:59:00 PST 2012): OK, next step is to bring up 2 more #Hadoop VMs and see how it goes.
+[167366639006916608] @jitterted (Wed Feb 08 13:58:10 PST 2012): @lfalmeida My point was that _average_ developers do rehacktoring and think it's what you're supposed to do when refactoring.
+--> Is in reply to: @lfalmeida, replying to status: 167362439359365123 - @jitterted: if u assume developers in general try to simplify code, then I'd say yes. Not sure about the assumption though.(re:rehacktoring)
+[167362287718498304] @jitterted (Wed Feb 08 13:40:53 PST 2012): @daverooneyca If that works, but File-Exit doesn't, then that's just crazy stupid broken.
+--> Is in reply to: @daverooneyca, replying to status: 167361184784322560 - @jitterted Alt-F4?
+[167361113778962433] @jitterted (Wed Feb 08 13:36:13 PST 2012): @daverooneyca File->Exit on Windows didn't. Sigh.
+--> Is in reply to: @daverooneyca, replying to status: 167360662639611904 - @jitterted I find that if I use Cmd-Q (I'm on a Mac) it always saves the tabs.
+[167360874288381953] @jitterted (Wed Feb 08 13:35:16 PST 2012): @lfalmeida Isn't that just coding by average developers? (re: rehacktoring)
+--> Is in reply to: @lfalmeida, replying to status: 167360106332295168 - RT @JenniferSmithCo: I just made a new term up -rehacktoring. Its like refactoring, but u just do it all in one go and break lots of things.
+[167360262100369408] @jitterted (Wed Feb 08 13:32:50 PST 2012): @teradee How about Tersty Tuesday (pronounce the Thirsty with a hard-T)?
+--> Is in reply to: @teradee, replying to status: 167090096359739392 - @jitterted I like it!   "Thirsty Tuesday" just doesnt have the ring like "Lean Beer" does. :)
+[167360069032357888] @jitterted (Wed Feb 08 13:32:04 PST 2012): @daverooneyca The former. When I exit and then restart Chrome, sometimes it restores the tabs, sometimes not. No idea what I did/didn't do.
+--> Is in reply to: @daverooneyca, replying to status: 167359801842597888 - @jitterted Save as in "when I quit Chrome", or "as a folder of bookmarks"?
+[167359634695389184] @jitterted (Wed Feb 08 13:30:20 PST 2012): Why can't I get Chrome to save my tabs like Firefox does. :-(
+[167358920304758784] @jitterted (Wed Feb 08 13:27:30 PST 2012): Yay! Executed my first Hadoop word count job! No thanks to the Apache and Cloudera documentation, though.
+[167358537750675458] @jitterted (Wed Feb 08 13:25:59 PST 2012): Really? The fact that Groupon lost money last quarter is a surprise? Really? http://t.co/ilueNAZt
+  http://t.co/ilueNAZt --> http://ow.ly/8XkY2 --> http://www.marketwatch.com/story/groupon-reports-fourth-quarter-loss-revenue-gain-2012-02-08?siteid=bnbh
+[167311364631691264] @jitterted (Wed Feb 08 10:18:32 PST 2012): IDEA 11.1 EAP is out! http://t.co/8p9wZDae
+  http://t.co/8p9wZDae --> http://confluence.jetbrains.net/display/IDEADEV/IDEA+11.1+EAP
+[167103623862562817] @jitterted (Tue Feb 07 20:33:03 PST 2012): @atestguy You sound...confused.
+--> Is in reply to: @atestguy, replying to status: 167100232960720899 - @jitterted Often, confusion is a thin layer covering profound insanity. Oh, wait. Maybe not.
+[167094133830336512] @jitterted (Tue Feb 07 19:55:20 PST 2012): Once again, I've found that asking "What is the problem we're trying to solve" breaks through the confusion.
+[167093357888282625] @jitterted (Tue Feb 07 19:52:15 PST 2012): @teradee True, but we've been doing Thirsty Thursday before Lean entered the common lexicon. ;-)
+--> Is in reply to: @teradee, replying to status: 167090096359739392 - @jitterted I like it!   "Thirsty Tuesday" just doesnt have the ring like "Lean Beer" does. :)
+[167087742784765952] @jitterted (Tue Feb 07 19:29:56 PST 2012): @teradee I kid. We use Thirsty Thursday, with beer.
+--> Is in reply to: @teradee, replying to status: 167085378510131201 - At RWBaird, we've adopted #LeanCoffee to help teams discuss ideas, innovation, improvements, the "un-discussable".  What do you use?
+[167087589562646530] @jitterted (Tue Feb 07 19:29:20 PST 2012): @teradee We prefer to just not discuss it. Saves time. ;-)
+--> Is in reply to: @teradee, replying to status: 167085378510131201 - At RWBaird, we've adopted #LeanCoffee to help teams discuss ideas, innovation, improvements, the "un-discussable".  What do you use?
+[167050028781801472] @jitterted (Tue Feb 07 17:00:05 PST 2012): RT @breakthecurve: Also, it is literally impossible to "attract great teachers." Great teachers are made, not born. We need to stop pret ...
+[167038643221958657] @jitterted (Tue Feb 07 16:14:50 PST 2012): Oops, link wasn't included: http://t.co/vWS74iaG
+  http://t.co/vWS74iaG --> http://sumofus.org/campaigns/googlequit/?sub=taf
+[167038393451167745] @jitterted (Tue Feb 07 16:13:51 PST 2012): Help @Google get out of a bad relationship. Watch this video.  via @Sum_Of_Us
+[167026350962647040] @jitterted (Tue Feb 07 15:25:59 PST 2012): @lukehohmann Details are at http://t.co/ocYqxrnK -- June 4-6.
+--> Is in reply to: @lukehohmann, replying to status: 167025742956331010 - @jitterted Where does one submit a proposal to #SFAgile2012?
+  http://t.co/ocYqxrnK --> http://www.sfagilecon.org
+[167026007788892162] @jitterted (Tue Feb 07 15:24:38 PST 2012): @lukehohmann Right now you can send an email to me or Angeline. Our crowdsourced submission site is going up soon (wrkng on it now!)
+--> Is in reply to: @lukehohmann, replying to status: 167025742956331010 - @jitterted Where does one submit a proposal to #SFAgile2012?
+[166965864728510464] @jitterted (Tue Feb 07 11:25:38 PST 2012): @adamyuret Ya, Post-Agile is so 2010. I'm on it, don't worry.
+--> Is in reply to: @AdamYuret, replying to status: 166963246253867011 - http://t.co/xDsGsgVD there it is @jitterted #postagile time to get crackin on neo. ;-)
+[166757803279659008] @jitterted (Mon Feb 06 21:38:53 PST 2012): @eriksowa Sounds like a panel in the making? /cc @SFAgile2012
+--> Is in reply to: @eriksowa, replying to status: 166756618715938816 - @SFAgile2012 @jitterted don't start me ranting about what's not agile unless you are sure you can stop me :-)
+[166752587192872960] @jitterted (Mon Feb 06 21:18:09 PST 2012): Thinking of "Ted's Agile Rants" as a talk at @SFAgile2012. 30 minutes of me ranting about the state of Agile. Fun, but perhaps too easy.
+[166751047409336321] @jitterted (Mon Feb 06 21:12:02 PST 2012): @agilemanager Is anyone actually saying that LSSC is a "junior agile conf"?
+--> Is in reply to: @agilemanager [Error in Reply To Status ID = -1]
+[166745527399100416] @jitterted (Mon Feb 06 20:50:06 PST 2012): @srbaker No, but "Help reboot our team to be successful", if, that is, they cared about actually being successful in a human way.
+--> Is in reply to: @srbaker, replying to status: 166742482359549952 - OH: "I don't think: 'Our engineering team is imploding please god save us' would do well [as a job ad]." Fair point.
+[166742460628869121] @jitterted (Mon Feb 06 20:37:55 PST 2012): @srbaker Well that sucks. Thanks for warning people. Good thing I'm not in Oregon.
+--> Is in reply to: @srbaker, replying to status: 166741485130219520 - @jitterted If "proprietary Ruby on Rails platform" means "worst code you've ever seen in your life", they might actually be truthful.
+[166740466941968385] @jitterted (Mon Feb 06 20:29:59 PST 2012): @srbaker Why, what's the catch? And what's a "proprietary Ruby on Rails platform"?
+--> Is in reply to: @srbaker, replying to status: 166739408769384448 - Hey, everyone. If you were thinking about this job: http://t.co/iM7a9NNY stop. You'll thank me for it.
+[166739837410488320] @jitterted (Mon Feb 06 20:27:29 PST 2012): @agilemeister I'm not apologizing. And I thought you _were_ one of those insane SF denizens?
+--> Is in reply to: @agilemeister, replying to status: 166739262597894145 - @jitterted your tweet got me snickering loudly on the bus and now ppl are curious if I am one of those insane SF denizens ;-)
+[166738663026343936] @jitterted (Mon Feb 06 20:22:49 PST 2012): @agilemeister That's why I'm starting the Certified Agile Practitioner program. Exam is req'd. You pass If I Say So
+--> Is in reply to: @agilemeister, replying to status: 166737333343879168 - @QualityFrog yeah, but most want 2b certified w/o experiencing that's why they want to be certified = "know" w/o having to work at knowing.
+[166732088303812608] @jitterted (Mon Feb 06 19:56:42 PST 2012): @agilemeister Did you at least invite them to attend @SFAgile2012 ? We'll set 'em straight. :-)
+--> Is in reply to: @agilemeister, replying to status: 166731445463826433 - @QualityFrog ha ha! I get to leave now.  ;-) now Gantt charts are being discussed and these ppl want 2b certified in Agile. #yucks #wrong
+[166696719466242048] @jitterted (Mon Feb 06 17:36:09 PST 2012): RT @KimJongNumberUn: Those bastards at Facebook totally stole the idea of imaginary farms and food from us.
+[166696606664638465] @jitterted (Mon Feb 06 17:35:42 PST 2012): @starshinecruise Nice, except I don't live in England and it's only active there. :-(
+--> Is in reply to: @StarshineCruise, replying to status: 166677654559404032 - @jitterted RT @MyRoyalUK: Want to become a Royal Caribbean Runner like @sallyGunnell? Here's how: http://t.co/DhytIEqr
+[166696268398198785] @jitterted (Mon Feb 06 17:34:22 PST 2012): My head hurts from mentally switching back and forth between writing JavaScript in Java (GWT) and writing JavaScript.
+[166672625685364737] @jitterted (Mon Feb 06 16:00:25 PST 2012): RT @KreelanWarrior: Did u enjoy the IN HER NAME omnibus? Get the next trilogy in THE LAST WAR! For #Kindle at http://t.co/YGXCM2wr Pls #RT!
+  http://t.co/YGXCM2wr --> http://amzn.to/u19muN --> http://www.amazon.com/gp/product/B0063GD6GK/ref=as_li_ss_tl?ie=UTF8&tag=panzermuseumc-20&linkCode=as2&camp=1789&creative=390957&creativeASIN=B0063GD6GK --> http://www.amazon.com/In-Her-Name-Last-ebook/dp/B0063GD6GK
+[166669831255494656] @jitterted (Mon Feb 06 15:49:19 PST 2012): @lukehohmann btw, you ARE going to send in an SFAgile2012 proposal, right? Right? Don't make me come over there.
+--> Is in reply to: @lukehohmann, replying to status: 166667744316628995 - @jitterted dude you should come to the Feb 16/17 #innovgames class in Mountain View - @AgileForAll will be there!
+[166669733708570625] @jitterted (Mon Feb 06 15:48:55 PST 2012): @lukehohmann I'd love to, but (a) I've allocated my personal training budget for the year, (b) spending free time on @SFAgile2012.
+--> Is in reply to: @lukehohmann, replying to status: 166667744316628995 - @jitterted dude you should come to the Feb 16/17 #innovgames class in Mountain View - @AgileForAll will be there!
+[166667255332093954] @jitterted (Mon Feb 06 15:39:04 PST 2012): @agileforall You're making an assumption that the code is relatively new and has regression tests. Might be legacy code. /cc @lukehohmann
+--> Is in reply to: @AgileForAll, replying to status: 166667022980227072 - @jitterted Sometimes. Checking for edge conditions AFTER rounding vs. before, or sing. vs. plural aren't hard. The dev in me isn't buying it
+[166664834660831232] @jitterted (Mon Feb 06 15:29:27 PST 2012): @agileforall I dislike "rough edges" 2, but I also know what seems trivial to fix, often isn't, and  requires significant feature tradeoffs
+--> Is in reply to: @AgileForAll, replying to status: 166663699204022272 - @lukehohmann We can agree to disagree. I'm a bug magnet like @testobsessed and things like that bother me. Not everyone is bothered.
+[166661940213579777] @jitterted (Mon Feb 06 15:17:57 PST 2012): btw, not only did I enjoy @SteveUmstead's trilogy, but he recommended Michael Hicks' "In Her Name: Empire" which is great!
+[166661008725774336] @jitterted (Mon Feb 06 15:14:15 PST 2012): @steveumstead lol...that reminds me, need to write a 5-star review for Gabriel's Revenge.
+--> Is in reply to: @SteveUmstead, replying to status: 166656172026368001 - My new favorite tweet this week: RT @jitterted: @SteveUmstead My credit-card is ready to purchase whatever you publish! #GoodReads
+[166651453904142337] @jitterted (Mon Feb 06 14:36:17 PST 2012): @deirdres It lasted 5 days for me...no coughing, mainly congestion and exhaustion. bleh.
+--> Is in reply to: @DeirdreS, replying to status: 166650552632086528 - This winter's "cold that's going around" seems to be less cough-y than last year's; I hope it also doesn't last as long. Still tired.
+[166651052370825218] @jitterted (Mon Feb 06 14:34:41 PST 2012): @atestguy right. Cuz that's so much more plug-n-play with Java than Scala or Gosu. ;-)
+--> Is in reply to: @atestguy, replying to status: 166649820516327424 - @jitterted seph?
+[166650796459569153] @jitterted (Mon Feb 06 14:33:40 PST 2012): @steveumstead My credit-card is ready to purchase whatever you publish! #GoodReads
+--> Is in reply to: @SteveUmstead, replying to status: 166649894604521473 - Two chapters written in the past 3 days on a super-secret new project. Don't tell me nothing gets accomplished on vacation... #amwriting
+[166646456223145984] @jitterted (Mon Feb 06 14:16:25 PST 2012): @atestguy And replace it with what? Scala? Gosu?
+--> Is in reply to: @atestguy, replying to status: 166645416610373632 - @jitterted cool? yes. Still a lot of duplication? yes. Maybe you should consider ditching the java part :-)
+[166635822517465090] @jitterted (Mon Feb 06 13:34:10 PST 2012): This looks cool: http://t.co/EX2yIbEB
+  http://t.co/EX2yIbEB --> http://code.google.com/p/funcito/
+[166610415533563904] @jitterted (Mon Feb 06 11:53:13 PST 2012): @DanielPink How does Gary suggest we train people to get stuff done via influence vs. positional authority?
+--> Is in reply to: @DanielPink [Error in Reply To Status ID = -1]
+[166608550020382720] @jitterted (Mon Feb 06 11:45:48 PST 2012): RT @rvansteenbergen: 1 May - Call For Papers PNSQC - Technical papers, http://t.co/QiU1j9dD #softwaretesting
+  http://t.co/QiU1j9dD --> http://tinyurl.com/7mgpqqz --> http://www.pnsqc.org/2012-conference/call-for-abstracts
+[166605971597176832] @jitterted (Mon Feb 06 11:35:33 PST 2012): Whitespace FTW! RT @thoughtbot: Design 101: Stop Yelling. http://t.co/VI9Qkqum
+  http://t.co/VI9Qkqum --> http://robots.thoughtbot.com/post/17163570631/design-101-stop-yelling
+[166604770923118592] @jitterted (Mon Feb 06 11:30:47 PST 2012): @chris_mcmahon Count me in...would be great to meet.
+--> Is in reply to: @chris_mcmahon, replying to status: 166604231946678275 - looks like I'll be in San Francisco March 5-9.   anyone want to meet up?
+[166602686182064129] @jitterted (Mon Feb 06 11:22:30 PST 2012): Interesting tidbit from @DanielPink's Office Hours: Principal-Based System vs. Rules-Based System
+[166592355472912384] @jitterted (Mon Feb 06 10:41:27 PST 2012): @daverooneyca Heck, some practices aren't even practical without a decoupled architecture. /cc @unclebobmartin
+--> Is in reply to: @daverooneyca, replying to status: 166590705056235523 - @unclebobmartin Uh, most practices are easier when you have a decoupled architechture. ;)
+[166586719850860544] @jitterted (Mon Feb 06 10:19:03 PST 2012): @lisacrispin Yeah, engineering still writes the dev and tester ads, but seeing how the other ones are written scares me!
+--> Is in reply to: @lisacrispin, replying to status: 166586126587539457 - @jitterted we always wrote our own before. For our tester job HR posted our lame job description (req'd by them) instead of job ad. Sigh.
+[166584859245019137] @jitterted (Mon Feb 06 10:11:40 PST 2012): @lisacrispin I can't believe it's just because we went public, it's the same people writing it. I think I'm more sensitive to it now, tho.
+--> Is in reply to: @lisacrispin, replying to status: 166583907960102912 - @jitterted we had a similar pblm after being bought by a Big Giant Company
+[166578943787409408] @jitterted (Mon Feb 06 09:48:09 PST 2012): Ugh. My company's job ads have been infected by HR- and Corporate-speak: "provide technical ad-hoc advisement to internal customers" WTF?
+[166573617239425024] @jitterted (Mon Feb 06 09:26:59 PST 2012): @testobsessed I know...not sure why sites have so many password restrictions, it only lessens security.
+--> Is in reply to: @testobsessed, replying to status: 166573354575339520 - Resetting forgotten pwd: "must contain 8 or more numbers and letters of mixed case." Srsly? No $ at stake. Minimal personal info. Harumph.
+[166573255656869888] @jitterted (Mon Feb 06 09:25:33 PST 2012): RT @AppSumo: Web Development Code Camp http://t.co/AUwpTBNe Start here and learn web development skills!  2 rndm RTs win it!
+  http://t.co/AUwpTBNe --> http://ow.ly/8U1ag --> http://www.appsumo.com/web-development-code-camp/?src=tw_dly_20120206
+[166571646612815872] @jitterted (Mon Feb 06 09:19:09 PST 2012): @testobsessed I think those posts are faulty because they generalize and have no scientific basis. The whole "introvert" aspect is wrong too
+--> Is in reply to: @testobsessed, replying to status: 166570397641347072 - Seeing a lot of "open offices reduce productivity" posts lately. Given inherently collaborative work, which is worse: noise or distance?
+[166567852399271937] @jitterted (Mon Feb 06 09:04:05 PST 2012): I just downloaded #ZeroBundle. free graphic resources for designers... download here: http://t.co/uK0GlBeW
+  http://t.co/uK0GlBeW --> http://bit.ly/zGHUtE --> http://www.zerobundle.com/?ref=pwat
+[166355566921396225] @jitterted (Sun Feb 05 19:00:32 PST 2012): The Giants had the most impossible post-season. Just amazing!
+[166355234799632384] @jitterted (Sun Feb 05 18:59:13 PST 2012): @petershankman Bite your tongue! err, fingers! At least wait until opening day to eliminate the Mets.
+--> Is in reply to: @petershankman, replying to status: 166354808998068224 - So the superbowl has just ended. Have the Mets been mathmatically eliminated from next season yet? :)
+[166355013197758465] @jitterted (Sun Feb 05 18:58:20 PST 2012): @adamyuret Yah, that would've been exciting. But glad it didn't happen. :-D
+--> Is in reply to: @AdamYuret, replying to status: 166354364775141376 - @jitterted Wow indeed. I thought Gronkowski might be scooping it up.
+[166354357548363778] @jitterted (Sun Feb 05 18:55:44 PST 2012): Hey 49ers, don't feel bad, cuz you were beat by The New SuperBowl Champs!!!!
+[166354117470593024] @jitterted (Sun Feb 05 18:54:46 PST 2012): Wow. That was an incredible game. So close!
+[149974246611877888] @jitterted (Thu Dec 22 14:07:01 PST 2011): Clear winner in traffic for 2011 from @rands http://t.co/OA0aSCtr
+  http://t.co/OA0aSCtr --> http://www.randsinrepose.com/archives/2011/07/12/bored_people_quit.html
+[149973959272710145] @jitterted (Thu Dec 22 14:05:52 PST 2011): @workroomprds Problem is, you're posting on blogspot, so if I increase font size for you, it does so for everyone.
+--> Is in reply to: @workroomprds, replying to status: 149973575607136256 - @jitterted take control of your browser, and increase the font size. Seriously though, thank you: next design iteration gets bigger letters
+[149972470542237696] @jitterted (Thu Dec 22 13:59:57 PST 2011): @workroomprds Not sure what font you're using, but it's very faint and pixelated for me making it hard to read :-(.
+--> Is in reply to: @workroomprds, replying to status: 149539307001098240 - Blogged: Uncommon ways of managing ET 02 - Kanban http://t.co/VClRvvz8
+[149971209285681152] @jitterted (Thu Dec 22 13:54:57 PST 2011): @roidrage But I've been slowly transferring domains away as they've gotten close to expiring. This was the kick I needed to finish the job.
+--> Is in reply to: @roidrage, replying to status: 149969561276518400 - So why did everyone go with GoDaddy in the first place, because they made such a great overall impression at first?
+[149971070613598208] @jitterted (Thu Dec 22 13:54:24 PST 2011): @roidrage I went with GoDaddy because back in the day, it was either them or $35/year through Network Solutions.
+--> Is in reply to: @roidrage, replying to status: 149969561276518400 - So why did everyone go with GoDaddy in the first place, because they made such a great overall impression at first?
+[149970909120315393] @jitterted (Thu Dec 22 13:53:45 PST 2011): @lisacrispin Take a look at this blog and see if that helps http://t.co/9HhnPyXw
+--> Is in reply to: @lisacrispin, replying to status: 149970649643880448 - @jitterted that seems to be the popular thing to do but I don't feel I have skills to do it
+  http://t.co/9HhnPyXw --> http://ow.ly/88fwu --> http://blog.jeffepstein.me/post/14629857835/a-step-by-step-guide-to-transfer-domains-out-of-godaddy
+[149970482949656576] @jitterted (Thu Dec 22 13:52:04 PST 2011): Just transferred all my domains from GoDaddy to NameCheap http://t.co/wDExgaoJ because #SOPASucks (which is also coupon code for NameCheap)
+  http://t.co/wDExgaoJ --> http://ow.ly/88flE --> http://www.namecheap.com?aff=25599
+[149939232419495937] @jitterted (Thu Dec 22 11:47:53 PST 2011): @lisacrispin @can_test Yah, it helps if there's a great tester serving as a role model.
+--> Is in reply to: @lisacrispin, replying to status: 149937393007464449 - @jitterted @can_test every place I've worked, I had to earn my credibility w/ devs. But once they get it, they're happy to have me!
+[149934153238986753] @jitterted (Thu Dec 22 11:27:42 PST 2011): @lisacrispin I think the hardest part is getting devs to really understand what _good_ testers do. /cc @can_test
+--> Is in reply to: @lisacrispin, replying to status: 149848883332259840 - @jitterted yeah, it takes an effort to build a culture where all on team willing to do whatever is needed 4 quality /cc can_test
+[149742950279159808] @jitterted (Wed Dec 21 22:47:56 PST 2011): @whitneyhess That's just another form of spam. I get a lot of that (2-3 per week) and always click the spam button.
+--> Is in reply to: @whitneyhess, replying to status: 149722820069425152 - If I've never heard of you, please don't add me on LinkedIn, using the default message, and especially not by calling me your friend.
+[149741164663291904] @jitterted (Wed Dec 21 22:40:50 PST 2011): @can_test Because there are programmers who don't think "testing" is something they're responsible for. /cc @lisacrispin
+--> Is in reply to: @can_test, replying to status: 149737588264157184 - .@lisacrispin why do orgs find it easier to spend time & $$ on low-value 'qa' automation efforts than on educating programmers to test more?
+[149634634718773248] @jitterted (Wed Dec 21 15:37:31 PST 2011): I love Carl! RT @scalzi: Also, "Fuzzy Nation" Featured as a Science Fiction Book Club top pick: http://t.co/82crX06V
+  http://t.co/82crX06V --> http://bit.ly/w3ANu4 --> http://www.youtube.com/watch?feature=player_embedded&v=DNflKtJgqFk
+[149632585465724930] @jitterted (Wed Dec 21 15:29:23 PST 2011): @bendre Good idea, I'll do an unboxing video.
+--> Is in reply to: @Bendre, replying to status: 149631770088841217 - @jitterted Sounds cool. Pic + audio when it arrives?
+[149632453399687169] @jitterted (Wed Dec 21 15:28:51 PST 2011): @bendre
+--> Is in reply to: @Bendre, replying to status: 149631770088841217 - @jitterted Sounds cool. Pic + audio when it arrives?
+[149629671523364867] @jitterted (Wed Dec 21 15:17:48 PST 2011): Would you, or someone you know, be interested in being mentored in the style of Craftsmanship Academy for a week or two (full-time) - SF Bay
+[149628867563356161] @jitterted (Wed Dec 21 15:14:36 PST 2011): Sometimes the distribution is much more interesting than the average. So in your paper, think about which you want to use.
+[149627775412736001] @jitterted (Wed Dec 21 15:10:16 PST 2011): Just bought an Ovation guitar, incredible deal from @HelloMusic http://t.co/Rli7m7lA . Thanks guys!
+  http://t.co/Rli7m7lA --> http://bit.ly/v9VlrB --> http://www.hellomusic.com/invite/137462/TedYoung
+[149614244042772480] @jitterted (Wed Dec 21 14:16:30 PST 2011): Would love to start a Craftsmanship Academy ( http://t.co/GIlHSy3V ) in the SF Bay Area.
+  http://t.co/GIlHSy3V --> http://ow.ly/874et --> http://www.informit.com/articles/article.aspx?p=1819923
+[149609953982816256] @jitterted (Wed Dec 21 13:59:27 PST 2011): Hey @Coke, how is entering "multiple codes" any different than one-by-one if you force me to submit each one anyway?!? #ui #fail
+[149588843744595968] @jitterted (Wed Dec 21 12:35:34 PST 2011): Can't find good developers? Don't whine about it, invest, e.g.: http://t.co/Rt6cehZm /via @chrismdp
+  http://t.co/Rt6cehZm --> http://hungryacademy.com
+[149587727287988224] @jitterted (Wed Dec 21 12:31:08 PST 2011): If you can't answer the question "what is the problem that this change in UI will solve?", don't make the change. #ux
+[149587518579425281] @jitterted (Wed Dec 21 12:30:18 PST 2011): I saw this with IntelliJ IDEA 11, too. RT @intuitionhq: New Gmail UI: When Lean Goes Wrong | http://t.co/RTzMlFhe #usability #ux
+  http://t.co/RTzMlFhe --> http://j.mp/uCG2tn --> http://blog.openviewpartners.com/new-gmail-ui-when-lean-goes-wrong/
+[149586280316014593] @jitterted (Wed Dec 21 12:25:23 PST 2011): Yes, yes they do. And they're right. RT @eileen_gunn: Does the House GOP think Americans are too stupid to Google? http://t.co/PNEGbA6Y
+  http://t.co/PNEGbA6Y --> http://ow.ly/86XpQ --> http://www.washingtonmonthly.com/political-animal/2011_12/what_the_house_gop_conferees_h034227.php
+[149581634465824768] @jitterted (Wed Dec 21 12:06:55 PST 2011): @ourfounder @davidjbland @bendre Unfortunately, we still needed the range of 1-3 points per story to capture the difference in complexity.
+--> Is in reply to: @ourfounder [Error in Reply To Status ID = -1]
+[149581183532015617] @jitterted (Wed Dec 21 12:05:07 PST 2011): @ourfounder @davidjbland @bendre I wouldn't do sizing at all if our architecture allowed for stories that were more similarly sized.
+--> Is in reply to: @ourfounder, replying to status: 149385595649658880 - @jitterted @davidjbland @bendre I appreciate what the game is trying to do. I still question whether sizing is a good use of time.
+[149305454512709632] @jitterted (Tue Dec 20 17:49:28 PST 2011): Aaaand, it's Chanukkah candle-lighting time. Chag Sameach! (Yeah, yeah, Chanukkah's not a festival -- sue me).
+[149304779368181760] @jitterted (Tue Dec 20 17:46:48 PST 2011): Oh dear, scanning this 2TB drive for errors is gonna take a while. Thinking that multi-TB drives should only be used in RAID config.
+[149303215375126529] @jitterted (Tue Dec 20 17:40:35 PST 2011): Hey @AppSumo, would love to see some deals for mobile game dev tools, say, ImpactJS + appMobi? :)
+[149283228774174720] @jitterted (Tue Dec 20 16:21:09 PST 2011): @adamyuret Agreed. In which case, it wouldn't matter whether points are used at all. /cc @ourfounder
+--> Is in reply to: @AdamYuret, replying to status: 149279498112733184 - @jitterted and I have to think low-safety command and control is more prone to this kind of velocity-driving abuse.  @ourfounder
+[149278665258176512] @jitterted (Tue Dec 20 16:03:01 PST 2011): @adamyuret I can imagine devs being "pushed" to estimate low, but then, it shouldn't matter, since they're just points! @ourfounder
+--> Is in reply to: @AdamYuret, replying to status: 149276600465235968 - @jitterted I've seen all-day estimation where the team is seeing the spect 4 the first time while being pushed 2 estimate low. @ourfounder
+[149277700199157761] @jitterted (Tue Dec 20 15:59:11 PST 2011): @davidjbland @ourfounder @bendre It's the team estimation game from Bockman http://t.co/T2OZMg5M
+--> Is in reply to: @davidjbland, replying to status: 149275448487055361 - @ourfounder @bendre @jitterted Are you referring to Even Sizing? I'm intrigued by it but yet to use it in coaching up an agile team.
+  http://t.co/T2OZMg5M --> http://ow.ly/85Ujv --> http://blog.technicalmanagementinstitute.com/2009/06/story-sizing-a-better-start-than-planning-poker.html
+[149275661599653888] @jitterted (Tue Dec 20 15:51:05 PST 2011): @ourfounder I guess I've only used stories deeply in one company, so have not seen any abuses by mgmt.
+--> Is in reply to: @ourfounder, replying to status: 149273871919497216 - @jitterted @davidjbland To be clear, I have no issues with the pure theory behind story points. But I have seldom seen them unabused.
+[149275484117680128] @jitterted (Tue Dec 20 15:50:23 PST 2011): @ourfounder @bendre @davidjbland For us, Rel Est takes very little time (dozen cards in 5 minutes). Then we can relate pts. to cycle time.
+--> Is in reply to: @ourfounder, replying to status: 149274808289472513 - @Bendre @davidjbland @jitterted As I see it,teams w/an understanding of how they produce (cycle time) need not waste time with relative est.
+[149273740952350720] @jitterted (Tue Dec 20 15:43:27 PST 2011): @ourfounder @davidjbland It's because I can tell project mgmt if we can deliver feature X by the deadline, with sufficient advance notice.
+--> Is in reply to: @ourfounder, replying to status: 149273272347918336 - @jitterted @davidjbland That's awesome. Do you think that's because of story points, or because your team has regular conversations?
+[149273102117908480] @jitterted (Tue Dec 20 15:40:55 PST 2011): @ourfounder @davidjbland My team benefits, because we get to continue developing software that's delivered on-time.
+--> Is in reply to: @ourfounder, replying to status: 149272491595005952 - @davidjbland @jitterted I understand the theory behind them, but have never seen a team actually benefit from it.
+[149272192985739264] @jitterted (Tue Dec 20 15:37:18 PST 2011): @ourfounder I think there's a difference between story points being a proxy for time, and being able to use them for prediction.
+--> Is in reply to: @ourfounder, replying to status: 149264999347535873 - I have never met a proponent of Story Points that hasn't ultimately described them as a proxy for time. #scrum #kanban #lean #agile
+[149231609495830528] @jitterted (Tue Dec 20 12:56:02 PST 2011): OK, that's enough political tweeting for today, have to watch my blood pressure. :-(
+[149230868819492864] @jitterted (Tue Dec 20 12:53:06 PST 2011): @marcjohnson That's the story of my last 3 months at work. sigh.
+--> Is in reply to: @marcjohnson, replying to status: 149229941018472449 - If you don't know why and what, then why care about how?
+[149230586064670720] @jitterted (Tue Dec 20 12:51:58 PST 2011): @gdinwiddie Ah, that totally makes sense, then. It's only a tax increase if the wealthy or corporations are greatly affected. Silly me.
+--> Is in reply to: @gdinwiddie, replying to status: 149229895610933248 - @jitterted No, of course not. It's only a tax increase if you let a capital gains tax cut expire.
+[149229217178071040] @jitterted (Tue Dec 20 12:46:32 PST 2011): So if the GOP lets the payroll tax cut expire, isn't that a TAX INCREASE?
+[149228872112680960] @jitterted (Tue Dec 20 12:45:10 PST 2011): @jfpoilpret Thanks, @justinsandercoe's site looks great! I need to step back to the basics for a bit.
+--> Is in reply to: @jfpoilpret, replying to status: 149001356735299584 - @jitterted depending on your level, check out @justinsandercoe guitar learning site. Lots of good stuff there, including practice planning
+[149224731365736448] @jitterted (Tue Dec 20 12:28:43 PST 2011): One lesson learned: browser-based metronomes don't keep time very well on my computer. Need an offline one with better visuals.
+[149223041841377280] @jitterted (Tue Dec 20 12:22:00 PST 2011): Me and my coffee are loving the newly arrived @CoffeeJoulies! So far it's keeping my coffee  at the perfect temperature.
+[148995398638379009] @jitterted (Mon Dec 19 21:17:25 PST 2011): @dhemery I like it. Good way to break break out of a rut, too.
+--> Is in reply to: @dhemery, replying to status: 148992766582599680 - @jitterted Those are examples of the "tie one habit (or technique) behind your back" strategy. I've used it with guitar and with writing.
+[148995087853043712] @jitterted (Mon Dec 19 21:16:11 PST 2011): @ckeithray It's kind of impressive, in a sick and twisted way.
+--> Is in reply to: @ckeithray, replying to status: 148993929692463105 - @jitterted It's how congress maintains 90% incumbency with a 9% approval rating.
+[148991822423793665] @jitterted (Mon Dec 19 21:03:13 PST 2011): There's nothing like reading about writing to avoid actually, well, writing.
+[148991627761958912] @jitterted (Mon Dec 19 21:02:26 PST 2011): @dhemery Ah, ok, that's a good idea, I can do that. Thanks!
+--> Is in reply to: @dhemery, replying to status: 148990915451682817 - @jitterted To make it interesting, play in one position over songs in different keys. Or on one string over songs of varying styles & tempos
+[148991258440892419] @jitterted (Mon Dec 19 21:00:58 PST 2011): Bought ($5!). RT @guitarnoize: Guitar Noize Shred Master Exercises & Studies Xmas Special, only $5 for the next week! http://t.co/4eaY8fbR
+  http://t.co/4eaY8fbR --> http://j.mp/u4RKxZ --> http://www.guitarnoize.com/store/shred-master-exercises-studies/
+[148988524245426176] @jitterted (Mon Dec 19 20:50:06 PST 2011): @maritzavdh If I never read annoying things, I'd never read about politics! Hmm.
+--> Is in reply to: @maritzavdh, replying to status: 148986733906759682 - HBR on kicking some time suck habits in 2012, like reading annoying things. :-) http://t.co/dDliGsXZ re choice cc @AutumnP70
+[148988291373477888] @jitterted (Mon Dec 19 20:49:11 PST 2011): @dhemery For 30 minutes? Dang, not sure I have the patience for that yet. Think I'll try the painfully slow 60bpm metronome exercise first.
+--> Is in reply to: @dhemery, replying to status: 148986607851147264 - @jitterted Play for 30 min on one string. Or in one position. Or only hammerons, pull offs, and slides (no picking).
+[148986380201107456] @jitterted (Mon Dec 19 20:41:35 PST 2011): Whew! RT @industriallogic: FWIW, the "IL" in Kim Jong IL's name has nothing to do with Industrial Logic.  We are still alive and well.
+[148985070865219584] @jitterted (Mon Dec 19 20:36:23 PST 2011): A mechanical one would entail having to shop for one, which sure seems like procrastinating.
+[148984929580101633] @jitterted (Mon Dec 19 20:35:49 PST 2011): Now, the question is, do I use the metronome built into Amplitube, et al, or get a mechanical one?
+[148984409159249920] @jitterted (Mon Dec 19 20:33:45 PST 2011): @bitops lol. Hey, Curmudgeon.ly is available!
+--> Is in reply to: @bitops, replying to status: 148983532679741440 - @jitterted they're at the very least on the same graph. Controlling for caffeine changes outcome. :D
+[148981443140399104] @jitterted (Mon Dec 19 20:21:58 PST 2011): @bitops Are you saying Ted and Curmudgeon are equivalent? (Not disagreeing, just checking!)
+--> Is in reply to: @bitops, replying to status: 148978664497885184 - @jitterted curmudgeon.ly? ;)
+[148976652729323520] @jitterted (Mon Dec 19 20:02:56 PST 2011): Aww drat, just realized Ted.ly redirects to bitly. Was thinking of buying it. :(
+[148975781824040962] @jitterted (Mon Dec 19 19:59:28 PST 2011): RT @RobertJSawyer: Sherry Peters's excellent ebook for #writers "Silencing Your Inner Saboteur" is now available for #Kobo http://t.co/E ...
+  http://t.co/E
+[148975139554476032] @jitterted (Mon Dec 19 19:56:55 PST 2011): @sherry_peters I hope my Inner Saboteur isn't sophisticated enough to prevent me from buying the book! I'd better act quickly.
+--> Is in reply to: @sherry_peters [Error in Reply To Status ID = -1]
+[148974271409045505] @jitterted (Mon Dec 19 19:53:28 PST 2011): @bendre Oh man, I can't stand reading the comments. Very tempting, but not healthy.
+--> Is in reply to: @Bendre, replying to status: 148974110939156480 - @jitterted I go a little more deeper. Instead of reading just politics, I read some comments below these posts. No wonder my BP shoots up!
+[148973953707282433] @jitterted (Mon Dec 19 19:52:13 PST 2011): @bendre Regardless, we should totally have a jam session. I've got extra amps and guitars.
+--> Is in reply to: @Bendre, replying to status: 148973580368093185 - @jitterted been recommending that! Even posted a agile n music suggestion on my blog :)..
+[148973711620452352] @jitterted (Mon Dec 19 19:51:15 PST 2011): What is it, aggravate Ted day?!? Why isn't Skype seeing my cam, but other programs do?
+[148972564654465024] @jitterted (Mon Dec 19 19:46:41 PST 2011): @bendre Thanks. I think we need to add a "bring yer guitar" session to #SFAgile2012.
+--> Is in reply to: @Bendre, replying to status: 148970942087970816 - @jitterted I like the techniques mentioned in @jamplay lessons. Start not-by-note note, on all frets across the neck in your muscle memory!
+[148972322869612545] @jitterted (Mon Dec 19 19:45:44 PST 2011): This is why I try to avoid reading about politics, it's just too aggravating.
+[148972161858670592] @jitterted (Mon Dec 19 19:45:05 PST 2011): The GOP is "structuring the votes in a manner that’s designed to give their members cover" over defeating the payroll tax holiday extension.
+[148971436214718464] @jitterted (Mon Dec 19 19:42:12 PST 2011): @rslawrence Good suggestion -- I think @bitops 's metronome idea with right-hand rhythm is now my plan.
+--> Is in reply to: @rslawrence, replying to status: 148939200106987522 - @jitterted Most guitarists I work with have mostly paid attn to the left hand; I suggest including exercises for the right, too.
+[148938199060844544] @jitterted (Mon Dec 19 17:30:08 PST 2011): @bitops Ah yes, the metronome. Gawd I hated metronome work, but it's a good idea, thanks. :)
+--> Is in reply to: @bitops, replying to status: 148937050823991296 - @jitterted and at least 5 minutes of practice with a metronome.
+[148937994563354625] @jitterted (Mon Dec 19 17:29:19 PST 2011): @rslawrence Yeah, I was thinking that -- hard to provide context in 140 chars. Looking for getting my fingers back in shape.
+--> Is in reply to: @rslawrence, replying to status: 148936929910595585 - @jitterted Depends where you are now and what you want to improve. Replace "guitar" w/ "programming" & need for context is clear.
+[148934991743680514] @jitterted (Mon Dec 19 17:17:23 PST 2011): OK: You have 30 minutes a day to practice guitar. What are some good practice techniques?
+[148890445693460480] @jitterted (Mon Dec 19 14:20:23 PST 2011): Uh-oh, Manning's half-off eBooks is today (http://t.co/J70ChYxS with code dotd1219), which means more books on my virtual shelf.
+  http://t.co/J70ChYxS --> http://ow.ly/84vHR --> http://affiliate.manning.com/idevaffiliate.php?id=1060 --> http://www.manning.com/
+[148883533388185600] @jitterted (Mon Dec 19 13:52:55 PST 2011): @rslawrence But generally I like it when docs have diagrams: sequence, collaboration, etc.
+--> Is in reply to: @rslawrence, replying to status: 148877084306055168 - @jitterted Any examples of good API docs for the way you learn? (I'd like to make my docs better.)
+[148883013919440896] @jitterted (Mon Dec 19 13:50:51 PST 2011): @rslawrence I do have good examples, alas, they're internal confidential docs. Can't think of good publicly available ones right now.
+--> Is in reply to: @rslawrence, replying to status: 148877084306055168 - @jitterted Any examples of good API docs for the way you learn? (I'd like to make my docs better.)
+[148882217832169472] @jitterted (Mon Dec 19 13:47:41 PST 2011): @jmeowmeow Well, I _could_ print them out. But I'll just have to sketch some diagrams myself.
+--> Is in reply to: @jmeowmeow, replying to status: 148879260763963393 - @jitterted They're not paper docs you can sketch on as you go?
+[148876490866556928] @jitterted (Mon Dec 19 13:24:56 PST 2011): It's tough being a visual learner and reading API docs that have no diagrams or pictures. :-(
+[148863976
