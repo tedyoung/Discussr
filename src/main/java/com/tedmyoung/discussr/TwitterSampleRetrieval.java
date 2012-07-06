@@ -161,7 +161,7 @@ public class TwitterSampleRetrieval {
     File tweetOutputFile = new File(fileName);
     _writer = new PrintWriter(tweetOutputFile);
 
-    for (int page = 31; page >= 1; page--) {
+    for (int page = 21; page >= 1; page--) {
       paging.setPage(page);
       PageInfo pageInfo;
       try {
@@ -183,7 +183,6 @@ public class TwitterSampleRetrieval {
       tweetCount += pageTweetCount;
       if (pageTweetCount != 0) {
         System.out.println("On page " + page + " saved " + pageTweetCount + " tweets, with most recent status ID = " + mostRecentSavedStatusId);
-        System.out.println("(Diff between Since ID and Most Recent: " + (mostRecentSavedStatusId - sinceId));
         System.out.println("----");
         System.out.flush();
       }
@@ -192,6 +191,7 @@ public class TwitterSampleRetrieval {
     FileUtils.writeStringToFile(new File(MOST_RECENT_SAVED_STATUS_ID_FILENAME), String.valueOf(mostRecentSavedStatusId));
     _cumulativeSavedTweetCount += tweetCount;
     System.out.println("On " + new Date() + ", saved " + tweetCount + " tweets (" + _cumulativeSavedTweetCount + " overall), with most recent saved Status ID: " + mostRecentSavedStatusId);
+    System.out.println("-- End of update --\n");
     System.out.flush();
     System.err.flush();
   }
